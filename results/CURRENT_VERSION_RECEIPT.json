@@ -82,12 +82,13 @@
   },
   "usage_observation": {
     "source": "Codex get_usage_limits",
-    "observed_utc": "2026-10-29T19:41:58Z",
+    "observed_utc": "2026-10-29T19:46:06Z",
     "window_minutes": 10080,
-    "used_percent": 89,
-    "remaining_percent": 11,
+    "used_percent": 90,
+    "remaining_percent": 10,
     "reset_unix": 1793782197,
-    "shared_account_not_task_usage": true
+    "shared_account_not_task_usage": true,
+    "ordinary_usage_allowed": true
   },
   "stop_reason": "Three bounded local review rounds meet the declared reported-source comparison criteria. Proceed with ordinary exact-version Linux/release proof; no further substantive revision planned."
 }

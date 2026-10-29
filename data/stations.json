@@ -1,0 +1,66 @@
+[
+  {
+    "city": "chicago",
+    "usaf": "725300",
+    "wban": "94846",
+    "name": "CHICAGO O'HARE INTERNATIONAL AIRPORT",
+    "latitude": "+41.960",
+    "longitude": "-087.932"
+  },
+  {
+    "city": "phoenix",
+    "usaf": "722780",
+    "wban": "23183",
+    "name": "PHOENIX SKY HARBOR INTL AIRPORT",
+    "latitude": "+33.428",
+    "longitude": "-112.004"
+  },
+  {
+    "city": "miami",
+    "usaf": "722020",
+    "wban": "12839",
+    "name": "MIAMI INTERNATIONAL AIRPORT",
+    "latitude": "+25.788",
+    "longitude": "-080.317"
+  },
+  {
+    "city": "atlanta",
+    "usaf": "722190",
+    "wban": "13874",
+    "name": "HARTSFIELD-JACKSON ATLANTA INTL AP",
+    "latitude": "+33.630",
+    "longitude": "-084.442"
+  },
+  {
+    "city": "dallas",
+    "usaf": "722590",
+    "wban": "03927",
+    "name": "DALLAS/FT WORTH INTERNATIONAL AP",
+    "latitude": "+32.897",
+    "longitude": "-097.022"
+  },
+  {
+    "city": "seattle",
+    "usaf": "727930",
+    "wban": "24233",
+    "name": "SEATTLE-TACOMA INTERNATIONAL AIRPORT",
+    "latitude": "+47.445",
+    "longitude": "-122.314"
+  },
+  {
+    "city": "new_york",
+    "usaf": "744860",
+    "wban": "94789",
+    "name": "JOHN F KENNEDY INTERNATIONAL AIRPORT",
+    "latitude": "+40.639",
+    "longitude": "-073.764"
+  },
+  {
+    "city": "minneapolis",
+    "usaf": "726580",
+    "wban": "14922",
+    "name": "MINNEAPOLIS-ST PAUL INTERNATIONAL AP",
+    "latitude": "+44.885",
+    "longitude": "-093.231"
+  }
+]

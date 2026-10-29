@@ -1,0 +1,21 @@
+{
+  "timestamp_utc": "2026-10-29T19:26:13.264144+00:00",
+  "status": "PASS_BOUNDED_SCAN",
+  "files_checked": 9,
+  "scope": "Exact staged Git index bytes; decompressed text; forbidden paths/extensions, high-confidence key and private machine path patterns; local Markdown links. Image/PDF contents require separate visual/source review. This is not universal secret detection.",
+  "findings": [],
+  "sha256": {
+    ".gitattributes": "421b40ccefad24646f59b490b201bc1b7c5415324e4c42b493cee3ab86c5497d",
+    ".gitignore": "6ebd24c38360605809e3cce7e99dcf9b20b4dfc77fb8e8690a8535d7a5283c54",
+    "DATA_RIGHTS.md": "4bd8282cc5702d87eb5207526f1d138443be846a3018e5226fb858f37c9b8ec3",
+    "PROTOCOL.md": "87ce93351adc3d026de480929e9b00b82eb466639c7391533462b54db1dc32dd",
+    "README.md": "fef69d5cf7e0a0f330fbb32bbd2678fc7cb0d763b1db8bfaf9fed5c0812852c6",
+    "SOURCES.md": "a5ffdf5c03b5ebd5cf6a37adf64ec1ca688a9d1084eb7741b73039fa0e157463",
+    "data/stations.json": "9dda973155ac4a89c83b5afd69a883476c5da798bea3d776b89bf466d59a662d",
+    "requirements.txt": "5d1fb6514d4dcf4d3d78f72c73fa3d9026a99d1f8e80d1bd12965c68982abced",
+    "src/config.py": "e76912fbe7b4fd60ecb4586cb084329ef4cf024f778eae5199454538552a19cc"
+  },
+  "raw_source_members_excluded": true,
+  "unapproved_manuscripts_excluded": true,
+  "approved_independent_paper_files": []
+}

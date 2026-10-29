@@ -1,0 +1,20 @@
+{
+  "status": "PASS",
+  "plotted_values": 200,
+  "heatmap_annotation_text_checks": 96,
+  "heatmap_annotation_contrast_checks": 96,
+  "heatmap_contrast_minimum_required": 4.5,
+  "heatmap_scale": "Natural 0\u2013100 percent range; no value clipping",
+  "figure_hashes": {
+    "figures/monthly_aggregation_gap.pdf": "f2300566587b7d56b833f7e28ae51f8d1b283bd8424cc1e705793552d3c20dfd",
+    "figures/monthly_aggregation_gap.svg": "ad9c60a01464fa6754f7f4547542d1a36c0971ebf0c3effaa62f8c72014be03f",
+    "figures/monthly_aggregation_gap.png": "43ae5697ebc9b78231e54ea21baff1bb9d5af428733c1f2b457474684a0817fa",
+    "figures/monthly_reported_tail.pdf": "324466ab178eb70d7a8ead91699c6e0fbd18d75b7e839c30ed932b328501f0fd",
+    "figures/monthly_reported_tail.svg": "d7d6b8a0836f616a6cec10da1dba72e5a8d28cfcde272ddb77afd180b2951cd3",
+    "figures/monthly_reported_tail.png": "ed447536b76cbd0aeac70e305339feaad65c52cf19a17e23ce035a0eb804b80c",
+    "figures/threshold_year_ranges.pdf": "6a6c6a64a00e60640a7e9a13dc7e43f29192d7ee4d542a75f3a9ebcab495755a",
+    "figures/threshold_year_ranges.svg": "7d0f499aa0eb566bba7297b2b13fd0d6473cbb0ae5c8ef13de77435b4ca9e0e0",
+    "figures/threshold_year_ranges.png": "cfcf3ad6bdd996685a06399d4f909114d0cdf7484f9cfe8d8d06d84e33ffb7ee"
+  },
+  "scope": "All primary bar widths and missing bounds; all96month/airport proportions; every24threshold point and48year-resampling endpoints checked on artists against independently verified tables. Rendered readability checked separately."
+}

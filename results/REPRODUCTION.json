@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "exact_csv_fields_or_json_documents": 330561,
+  "frozen_dependencies": 18,
+  "scope": "Isolated source calendar, all threshold/month/year/phase/run/tail outputs and every year-block replicate/interval, with independent SQL reconstruction; no network or private source originals required",
+  "limits": "Hash-bound private-original certificate retained; public replay cannot inspect full excluded raw files or recover absent Lite QC flags/continuous exposure"
+}

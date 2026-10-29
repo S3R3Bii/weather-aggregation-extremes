@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "phase": "development",
+  "monthly_rows": 2016,
+  "annual_rows": 168,
+  "phase_rows": 24,
+  "bootstrap_draws": 12000,
+  "exact_scalar_checks": 91408,
+  "reported_float_checks": 32808,
+  "methods": "Independent full UTC calendar; SQLite grouped integer sums, window-island run lengths and sorted order statistics; exact rational confusion/means; all shared year indices and every replicate/percentile reconstructed without production helpers",
+  "limits": "Arithmetic scope only; no full Lite QC validation, continuous physical duration, product response, exchangeable-years proof or future-climate coverage"
+}

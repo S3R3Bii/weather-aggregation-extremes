@@ -1,0 +1,5 @@
+# Additional source notice and quality limit
+
+After the held arithmetic checks, the archive's [ISD merge notice](https://noaa-isd-pds.s3.amazonaws.com/NOTICE-ISD-MERGE-ISSUE.TXT) was read. It reports a general merging problem that can leave some ISD output unsorted or unmerged. The notice does not name the selected Lite files, provide a resolution date or establish that any particular temperature in this subset is incorrect. Selected station/hour uniqueness and exact source extraction pass, while individual observation quality remains unverified because Lite omits the full flags.
+
+This notice reinforces the predeclared boundary: results compare reported near-hour source values and their aggregation. They do not validate true outdoor conditions, continuous temperature exposure, products or future climate. No source record, station, year, threshold, partition or algorithm was changed in response. All missing temperature slots and source-quality limitations remain explicit. Use full quality-bearing observations and local measurements before an operational contingency decision.

@@ -1,0 +1,73 @@
+{
+  "timestamp_utc": "2026-10-29T19:39:00.205783+00:00",
+  "deliverable": "Current study32 reported-temperature aggregation/source/results/figures; independent manuscript and remote release pending",
+  "rounds_completed": 2,
+  "status": "INCOMPLETE_MANUSCRIPT_AND_REMOTE_GATES_PENDING",
+  "grade": null,
+  "criteria": {
+    "source_extraction_and_minimization": {
+      "gate": "PASS",
+      "grade": 4,
+      "evidence": "120official objects;1051655rows;5258275selected-field and8413240projected-scalar checks; all locators and station metadata reconciled; originals private"
+    },
+    "declared_scope_and_separation": {
+      "gate": "PASS",
+      "grade": 4,
+      "evidence": "18canonical source/code dependencies publicly frozen before held analytical summaries; all three fixed thresholds retained; inputs/quality counts not blinded"
+    },
+    "finite_arithmetic_and_replay": {
+      "gate": "PASS",
+      "grade": 4,
+      "evidence": "12fixtures;190540exact scalar and66840reported-float independent checks; all24000year-block replicates verified;330561exact replay fields/documents"
+    },
+    "visual_encoding_and_labels": {
+      "gate": "PASS",
+      "grade": 4,
+      "evidence": "All3actualPNGfigures inspected;200artist values;96heatmap annotation text and96contrast checks; corrected natural0\u2013100percent color range; other2PNG/PDFfigures unchanged"
+    },
+    "individual_weather_QC_and_continuous_exposure": {
+      "gate": "UNKNOWN_NOT_CLAIMED",
+      "grade": null,
+      "evidence": "Lite lacks full QC flags and exact original observation times; archive merge notice is an unresolved general source caveat. Results condition on reported selected source values; no physical-duration or product validation claim"
+    },
+    "manuscript_and_remote_release": {
+      "gate": "UNKNOWN",
+      "grade": null,
+      "evidence": "Not yet completed"
+    }
+  },
+  "version_hashes": {
+    "results/SOURCE_CHECK.json": "cb635ffb3bc0483ee421fee41f0ab9cddb9c8633aab15c46808adedfd225a839",
+    "results/INDEPENDENT_SOURCE_CHECK.json": "6f6f508f5c470bc917d4a6fe8f9c1998a27c0dc594d735ae2f3492bcb29907e1",
+    "results/DEVELOPMENT_INDEPENDENT_CHECK.json": "fc8c549fb7db2f827134a90454dd638a8a51687630ec467eb57768f86b427fe3",
+    "results/EVALUATION_INDEPENDENT_CHECK.json": "ce65cbf15500a1b53a65173f49b19be4bf1a6f4a9a10024417cb6be1d6f7d082",
+    "results/REPRODUCTION.json": "585bf5f53639942f16ad5077ca61ccdb948e41c41e97c757f92a6fbd22d6f86a",
+    "results/FIGURE_CHECK.json": "2e2b36321712c992eecaac6e81b1e751e52c71e8561c2b41be17c04afb2bdee9"
+  },
+  "retained_failure": "First heatmap clipped four actual values above60percent; initial figures/source/check and finding retained privately. Natural0\u2013100scale and measured text contrast repair passed fresh checks. A verifier patch initially placed its new matrix check before assignment; order was corrected without changing scientific output or figures.",
+  "material_changes_since_round1": "Complete held summaries, exact replay, all bootstrap draws, figures and additional source merge-notice qualification",
+  "important_limits": [
+    "Reported near-hour slots are not continuous exposure duration",
+    "Airport records are not city-wide, facility or product conditions",
+    "Minneapolis has10966unknown held slots; all unknown slots and possible-count/run bounds retained",
+    "Monthly-mean comparison uses same-month data and is not an out-of-sample alert system",
+    "Year-block resampling conditions on observed records/missingness; trends and multi-year dependence limit future interpretation"
+  ],
+  "budget": {
+    "max_rounds": 3,
+    "max_active_review_minutes": 45,
+    "max_review_tool_calls": 60,
+    "rounds_used": 2,
+    "workload_proxy": "Source readiness began about19:21UTC; current timestamp gives elapsed upper bound including retrieval/coding/execution. Review-specific calls remain below40; no agents/judges/schedules. Proxies are not billing or quota."
+  },
+  "usage_observation": {
+    "source": "Codex get_usage_limits",
+    "observed_utc": "2026-10-29T19:35:37Z",
+    "window_minutes": 10080,
+    "used_percent": 87,
+    "remaining_percent": 13,
+    "reset_unix": 1793782197,
+    "shared_account_not_task_usage": true
+  },
+  "stop_reason": "Source/science/figure round complete; next produce/check current manuscript and ordinary exact-version Linux/release proof."
+}

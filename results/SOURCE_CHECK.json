@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "source_rows": 1051655,
+  "source_objects": 120,
+  "station_years": 120,
+  "expected_calendar_slots": 1051968,
+  "observed_temperature_slots": 1040626,
+  "unknown_slots": 11342,
+  "all_inputs_not_blinded": true,
+  "this_command_computes_no_threshold_or_tail_summaries": true,
+  "scope": "Exact source fields/locators/units/calendar/duplicate/sentinel accounting; all missing slots retained without station or year exclusion; full QC flags unavailable in Lite"
+}

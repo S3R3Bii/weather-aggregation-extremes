@@ -1,0 +1,58 @@
+{
+  "status": "FROZEN_BEFORE_HELD_ANALYTICAL_SUMMARIES",
+  "source_revision": "2a1ce8aad268f4f1bfd202846a28a27ba1350cb0",
+  "created_utc": "2026-10-29T19:32:51.574527+00:00",
+  "sha256": {
+    "PROTOCOL.md": "7ddf0468ef8544c166bd4dfdf38980f9e7c64b649a45e6f31b3c4fa243c44d07",
+    "SOURCES.md": "4a36be9daa21391a213e48ac2300bb5946c6d5a4623960fcfd0966e520a071b2",
+    "DATA_RIGHTS.md": "4bd8282cc5702d87eb5207526f1d138443be846a3018e5226fb858f37c9b8ec3",
+    "requirements.txt": "5d1fb6514d4dcf4d3d78f72c73fa3d9026a99d1f8e80d1bd12965c68982abced",
+    "src/analyze.py": "795f3841927dbeddb7fbbb2a6dd2052af0e3499e98154dab20b795670d3b1cc0",
+    "src/check_reproduction.py": "a0883587a08617a39f1c90def48663d940b4c245ed31ed3da2a7704bf56a9009",
+    "src/config.py": "118947c5e8d44d2929c8f8785d203620f4c7db467024c2032a3adf3850e1f151",
+    "src/ingest.py": "e756320141475b32dabf5fcef7a52879845c068fa6a75555281433120bd9403c",
+    "src/retrieve.py": "9885760e6ea98394ca344c7011ec185145dae3295c9e846f002df0a861720f40",
+    "src/verify_analysis.py": "c2e754927951dc36f37eb3032a3bd9b095304f84e461b11fbea7b12b70601ce9",
+    "src/verify_source.py": "851282cb6b69ca412b1f9768f30bab4abf127529636052fd127c77a7d4406c12",
+    "tests/test_boundaries.py": "0de590055a5634b74a8ec315a80667c2b479890aff9712416ca982e49a1916b2",
+    "data/stations.json": "9dda973155ac4a89c83b5afd69a883476c5da798bea3d776b89bf466d59a662d",
+    "data/source/temperature_slots.csv.gz": "05357ced90079a9796bdf825c14a5114c371912c71fc0aa53defdba21e374db1",
+    "data/source/manifest.json": "0f802a3a3f6f674efab2ca4994401ebe58c83d2de2873422f5e22db7285727bc",
+    "results/INDEPENDENT_SOURCE_CHECK.json": "5af0e98f08d14c138069a1e65f1be82d57af22225fa56f6cd5855436a0952e3c",
+    "results/SOURCE_CHECK.json": "e948e472b7b6563cdf127e43d9aa6eab5740c57687e32d159fbced9306ea191e",
+    "results/source_coverage.csv": "5bb7684971312b4710b21138c6b08887592c077185f4371509f188574c291b37"
+  },
+  "sequence": "2010\u20132016 analytical summaries and independent checks executed. All-year raw selected inputs, schema/calendar/coverage/missing/sanity checks inspected without blinding. No2017\u20132024 threshold/confusion/run/tail/bootstrap analytical summaries computed.",
+  "selection": "Three fixed illustrative thresholds; no fitted model, optimized cutoff or seed search; all stations/years/missing slots retained.",
+  "source_evidence": {
+    "objects": 120,
+    "rows": 1051655,
+    "selected_source_field_checks": 5258275,
+    "projected_scalar_checks": 8413240,
+    "unknown_slots": 11342
+  },
+  "development_evidence": {
+    "boundary_tests": 12,
+    "exact_checks": 91408,
+    "reported_float_checks": 32808
+  },
+  "limits": [
+    "Near-hour samples cannot establish continuous physical exposure",
+    "Full Lite quality flags unavailable; no individual QC audit",
+    "Airport stations do not measure warehouses or products",
+    "Monthly aggregation uses same-month observations; no operational prediction validation",
+    "Whole-year resampling does not establish future climate coverage"
+  ],
+  "review_rounds_completed": 1,
+  "budget": "Maximum3substantive rounds/45active review minutes/60review-specific calls; execution separate; no agents/judges/paid work/schedules",
+  "workload_proxy": "Source readiness about19:21UTC onward includes execution and metadata discovery; current timestamp retained. Review call count below20 at freeze; not quota or billing.",
+  "usage_observation": {
+    "source": "Codex get_usage_limits",
+    "observed_utc": "2026-10-29T19:29:48Z",
+    "window_minutes": 10080,
+    "used_percent": 87,
+    "remaining_percent": 13,
+    "reset_unix": 1793782197,
+    "shared_account_not_task_usage": true
+  }
+}

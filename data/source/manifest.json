@@ -1,0 +1,2171 @@
+{
+  "source": "NOAA ISD-Lite historical NODD archive",
+  "objects": [
+    {
+      "city": "chicago",
+      "station": "725300-94846",
+      "year": 2010,
+      "file": "725300-94846-2010.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2010/725300-94846-2010.gz",
+      "captured_utc": "2026-10-29T19:27:39.665255+00:00",
+      "bytes": 89354,
+      "sha256": "b3224e81b63a162deda64862a9949fb4be65618543c4e4183317c1aafb2a2e84",
+      "object_headers": {
+        "ETag": "\"00c98385cb8d71c14f899651348d3c4d\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:31:30 GMT",
+        "Content-Length": "89354"
+      },
+      "uncompressed_sha256": "e807e227be21c93c91053c6e15834e55a246cf99806cb780bd7b7b069f384bea",
+      "source_rows": 8758,
+      "final_head_verified_utc": "2026-10-29T19:28:20.436378+00:00"
+    },
+    {
+      "city": "chicago",
+      "station": "725300-94846",
+      "year": 2011,
+      "file": "725300-94846-2011.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2011/725300-94846-2011.gz",
+      "captured_utc": "2026-10-29T19:27:39.999377+00:00",
+      "bytes": 90266,
+      "sha256": "ec147423e6cb8bfa4d62912119b151ebe6893c03aef8ff0774d27d425f24d3d6",
+      "object_headers": {
+        "ETag": "\"b76b71cfb766680e02014bd89bde5c4f\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:33:49 GMT",
+        "Content-Length": "90266"
+      },
+      "uncompressed_sha256": "5c0447bfefc07f294b2a0f65328b4a6fbeb729fc867804fa9ec44dbd7f0ea98c",
+      "source_rows": 8757,
+      "final_head_verified_utc": "2026-10-29T19:28:20.588843+00:00"
+    },
+    {
+      "city": "chicago",
+      "station": "725300-94846",
+      "year": 2012,
+      "file": "725300-94846-2012.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2012/725300-94846-2012.gz",
+      "captured_utc": "2026-10-29T19:27:40.361535+00:00",
+      "bytes": 90632,
+      "sha256": "0355ebfc981a93a7796ca2f383488fc8b619737bdee90787d231313faea48caf",
+      "object_headers": {
+        "ETag": "\"b57a6c80f6b1c00f7672a52b0a5f4c2e\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:33:24 GMT",
+        "Content-Length": "90632"
+      },
+      "uncompressed_sha256": "c00c79420e0696f50b3d5c72e0c15e0174647e2d1015ed99929d2c1d4fbce80f",
+      "source_rows": 8782,
+      "final_head_verified_utc": "2026-10-29T19:28:20.752682+00:00"
+    },
+    {
+      "city": "chicago",
+      "station": "725300-94846",
+      "year": 2013,
+      "file": "725300-94846-2013.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2013/725300-94846-2013.gz",
+      "captured_utc": "2026-10-29T19:27:40.706067+00:00",
+      "bytes": 90372,
+      "sha256": "4196a6148bb9b2d36fe74654c073abfcab4549ac7e79561ad54402d759204d88",
+      "object_headers": {
+        "ETag": "\"0a42f08715db8a4ddc7ba5cd9a028065\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:31:47 GMT",
+        "Content-Length": "90372"
+      },
+      "uncompressed_sha256": "95d654133ce5045089dfcb1aa99d59f934acc974043397cdd5604a449de6a62b",
+      "source_rows": 8759,
+      "final_head_verified_utc": "2026-10-29T19:28:20.906080+00:00"
+    },
+    {
+      "city": "chicago",
+      "station": "725300-94846",
+      "year": 2014,
+      "file": "725300-94846-2014.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2014/725300-94846-2014.gz",
+      "captured_utc": "2026-10-29T19:27:41.027196+00:00",
+      "bytes": 90645,
+      "sha256": "4cb74597c1bf24566f4c1567da149fc146fbe783fb661d880a041ab852e3f699",
+      "object_headers": {
+        "ETag": "\"447f6a80bf6312f6f9e850e2e2454eb4\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:31:55 GMT",
+        "Content-Length": "90645"
+      },
+      "uncompressed_sha256": "2dac3965da80fe080038fc6b62750165679a065800f10a0e0f47eec06ee1c73e",
+      "source_rows": 8759,
+      "final_head_verified_utc": "2026-10-29T19:28:21.095401+00:00"
+    },
+    {
+      "city": "chicago",
+      "station": "725300-94846",
+      "year": 2015,
+      "file": "725300-94846-2015.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2015/725300-94846-2015.gz",
+      "captured_utc": "2026-10-29T19:27:41.351706+00:00",
+      "bytes": 90378,
+      "sha256": "7795fa099a2e93a684821fa1936847803f590fe745a178a4cdc774a660b3eea9",
+      "object_headers": {
+        "ETag": "\"35b85e718790f8439b8c71b7e3a31672\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:32:13 GMT",
+        "Content-Length": "90378"
+      },
+      "uncompressed_sha256": "0198e14bed6cd8d43d9cfb3c545ce73018ed0f25da4e477ce651eec63537fbc4",
+      "source_rows": 8758,
+      "final_head_verified_utc": "2026-10-29T19:28:21.280064+00:00"
+    },
+    {
+      "city": "chicago",
+      "station": "725300-94846",
+      "year": 2016,
+      "file": "725300-94846-2016.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2016/725300-94846-2016.gz",
+      "captured_utc": "2026-10-29T19:27:41.685714+00:00",
+      "bytes": 89974,
+      "sha256": "83ed0435e7a3cbbfa23db87213d165e064d27c656e607225df8166ed63d00767",
+      "object_headers": {
+        "ETag": "\"cb62e1edd986618cacc463dc63d60579\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:32:27 GMT",
+        "Content-Length": "89974"
+      },
+      "uncompressed_sha256": "91b5bff2406926418dfcfdda8137b394f50f31763c38594327db3d8e9bafa74a",
+      "source_rows": 8782,
+      "final_head_verified_utc": "2026-10-29T19:28:21.435835+00:00"
+    },
+    {
+      "city": "chicago",
+      "station": "725300-94846",
+      "year": 2017,
+      "file": "725300-94846-2017.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2017/725300-94846-2017.gz",
+      "captured_utc": "2026-10-29T19:27:42.049312+00:00",
+      "bytes": 90585,
+      "sha256": "5d30ef78ab7c98fd9e2778615416c82832a0789db086608399dfefd97dc359e6",
+      "object_headers": {
+        "ETag": "\"d0f7f392c679a406803b2f3c40b42d53\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:27:52 GMT",
+        "Content-Length": "90585"
+      },
+      "uncompressed_sha256": "60370602e11d1e8ca0301e1f0c0d65337c64dbc33754b29dac2bd1bb94fea659",
+      "source_rows": 8759,
+      "final_head_verified_utc": "2026-10-29T19:28:21.596626+00:00"
+    },
+    {
+      "city": "chicago",
+      "station": "725300-94846",
+      "year": 2018,
+      "file": "725300-94846-2018.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2018/725300-94846-2018.gz",
+      "captured_utc": "2026-10-29T19:27:42.369882+00:00",
+      "bytes": 89607,
+      "sha256": "6fb0ebf74dbb91b2549a85750a6b6d57f07f9059e3d08da22d1f55dc5c5110a3",
+      "object_headers": {
+        "ETag": "\"9ab5fd39eabdf07799ba263d5990fb6f\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:27:34 GMT",
+        "Content-Length": "89607"
+      },
+      "uncompressed_sha256": "8fe8b70d9f6278aa2c987d8ce0858a9fc4ef2bcc0b001999c675471f7d4da6c7",
+      "source_rows": 8759,
+      "final_head_verified_utc": "2026-10-29T19:28:21.758040+00:00"
+    },
+    {
+      "city": "chicago",
+      "station": "725300-94846",
+      "year": 2019,
+      "file": "725300-94846-2019.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2019/725300-94846-2019.gz",
+      "captured_utc": "2026-10-29T19:27:42.685446+00:00",
+      "bytes": 90756,
+      "sha256": "264f248d43233da3dc54aea30ed49acc19609b4e6ade01e6ef1c9d81147bf5de",
+      "object_headers": {
+        "ETag": "\"f9d00d7d242922e14b354d76c65a2c02\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:26:56 GMT",
+        "Content-Length": "90756"
+      },
+      "uncompressed_sha256": "6b4a5de3a530c66e5e9e50951331bc91a23f7edbe5213c0ad154e171c0c4de81",
+      "source_rows": 8758,
+      "final_head_verified_utc": "2026-10-29T19:28:21.909835+00:00"
+    },
+    {
+      "city": "chicago",
+      "station": "725300-94846",
+      "year": 2020,
+      "file": "725300-94846-2020.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2020/725300-94846-2020.gz",
+      "captured_utc": "2026-10-29T19:27:43.030648+00:00",
+      "bytes": 89758,
+      "sha256": "6ef5a01d7e0cac88fe3bbebfed00bd0c30f5d4155f7264c61032538a6b61f78f",
+      "object_headers": {
+        "ETag": "\"4f573e0ae9707a602000d73ef69a0e89\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:32:54 GMT",
+        "Content-Length": "89758"
+      },
+      "uncompressed_sha256": "ccd6d23b66f9139991caa25a9a9e1792db02a56f67be95517ba8774e41420a81",
+      "source_rows": 8783,
+      "final_head_verified_utc": "2026-10-29T19:28:22.073284+00:00"
+    },
+    {
+      "city": "chicago",
+      "station": "725300-94846",
+      "year": 2021,
+      "file": "725300-94846-2021.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2021/725300-94846-2021.gz",
+      "captured_utc": "2026-10-29T19:27:43.409372+00:00",
+      "bytes": 89295,
+      "sha256": "306df1f10e0325092c0465f42698eeaa69ad6ae1694fc283758413213a5f7ca6",
+      "object_headers": {
+        "ETag": "\"2f2d5e5b7ff6aa504db0cbf29bab2da6\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:34:44 GMT",
+        "Content-Length": "89295"
+      },
+      "uncompressed_sha256": "d0becb41e6c7187f951008636aea325036369b0fbcd6886e75d18b929c4e0de0",
+      "source_rows": 8758,
+      "final_head_verified_utc": "2026-10-29T19:28:22.253589+00:00"
+    },
+    {
+      "city": "chicago",
+      "station": "725300-94846",
+      "year": 2022,
+      "file": "725300-94846-2022.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2022/725300-94846-2022.gz",
+      "captured_utc": "2026-10-29T19:27:43.728912+00:00",
+      "bytes": 89824,
+      "sha256": "8036246dbee0e57c555870e46172ba8d1a868f58d92528382b559bfdac159983",
+      "object_headers": {
+        "ETag": "\"409723b871d8c8dee41c92132502d891\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:35:48 GMT",
+        "Content-Length": "89824"
+      },
+      "uncompressed_sha256": "fe022e98d1a87a7b16d68d6c88a50118a1dbb7e245574290a18857e6a5e451ad",
+      "source_rows": 8760,
+      "final_head_verified_utc": "2026-10-29T19:28:22.416335+00:00"
+    },
+    {
+      "city": "chicago",
+      "station": "725300-94846",
+      "year": 2023,
+      "file": "725300-94846-2023.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2023/725300-94846-2023.gz",
+      "captured_utc": "2026-10-29T19:27:44.056496+00:00",
+      "bytes": 89047,
+      "sha256": "2d65ea83842ea9c9571fd89e8269a8c56c7d3895048bb1ba3280357c9220f454",
+      "object_headers": {
+        "ETag": "\"658155ce4ef92e05ba3e90e4d928ab86\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:36:10 GMT",
+        "Content-Length": "89047"
+      },
+      "uncompressed_sha256": "cbff725a480dffdc4c4f1d917a6a24cc650830bc6b8db01644d48e3bba6dce65",
+      "source_rows": 8757,
+      "final_head_verified_utc": "2026-10-29T19:28:22.577106+00:00"
+    },
+    {
+      "city": "chicago",
+      "station": "725300-94846",
+      "year": 2024,
+      "file": "725300-94846-2024.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2024/725300-94846-2024.gz",
+      "captured_utc": "2026-10-29T19:27:44.372779+00:00",
+      "bytes": 90460,
+      "sha256": "3a778c3bdb222db627fd7fc84a8a2106a35c1cd670cafadbe26ec4344123c814",
+      "object_headers": {
+        "ETag": "\"990ebe853558047eec60452351727f83\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:36:29 GMT",
+        "Content-Length": "90460"
+      },
+      "uncompressed_sha256": "36dc81936e747122864ef3c4ae6c80b2135065d2482b224ebd165cccd5d4ba18",
+      "source_rows": 8766,
+      "final_head_verified_utc": "2026-10-29T19:28:22.737261+00:00"
+    },
+    {
+      "city": "phoenix",
+      "station": "722780-23183",
+      "year": 2010,
+      "file": "722780-23183-2010.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2010/722780-23183-2010.gz",
+      "captured_utc": "2026-10-29T19:27:44.768136+00:00",
+      "bytes": 87244,
+      "sha256": "7709666264d3484414057e78b48e1b9dc3c9f6f66f75066cad27399e0a7c0c9f",
+      "object_headers": {
+        "ETag": "\"7ac58a48b36d4f8c68bc35a1f42d25e4\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:31:30 GMT",
+        "Content-Length": "87244"
+      },
+      "uncompressed_sha256": "05fe8ca461a35ad569150903a7ed9563ecf70d2ff77b88720bde055c261fd971",
+      "source_rows": 8760,
+      "final_head_verified_utc": "2026-10-29T19:28:22.896766+00:00"
+    },
+    {
+      "city": "phoenix",
+      "station": "722780-23183",
+      "year": 2011,
+      "file": "722780-23183-2011.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2011/722780-23183-2011.gz",
+      "captured_utc": "2026-10-29T19:27:45.097682+00:00",
+      "bytes": 86582,
+      "sha256": "8d323ce45a5ed3768775a7a0731899945ad6fb2fe86f9bc2ed4e0b1b41fa49f9",
+      "object_headers": {
+        "ETag": "\"ff48b38af381e013a2e1b0a60b621e37\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:33:49 GMT",
+        "Content-Length": "86582"
+      },
+      "uncompressed_sha256": "ab1a7c34a6a1f261201d5731d9118c1df4ed472d59a0793a0e0b542f28283f44",
+      "source_rows": 8760,
+      "final_head_verified_utc": "2026-10-29T19:28:23.063122+00:00"
+    },
+    {
+      "city": "phoenix",
+      "station": "722780-23183",
+      "year": 2012,
+      "file": "722780-23183-2012.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2012/722780-23183-2012.gz",
+      "captured_utc": "2026-10-29T19:27:45.462829+00:00",
+      "bytes": 85806,
+      "sha256": "95a837c9fb3020b584aea9c6903f7ec71f89495bd79d588038f0c0d80d0c8299",
+      "object_headers": {
+        "ETag": "\"2dee8bea069fa1863acce096c4a1d8ca\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:33:23 GMT",
+        "Content-Length": "85806"
+      },
+      "uncompressed_sha256": "a08e0afb40de4b94d50f395a5a52b15b0308bb3d4bf30eeb06b0dd76deb5b949",
+      "source_rows": 8784,
+      "final_head_verified_utc": "2026-10-29T19:28:23.236441+00:00"
+    },
+    {
+      "city": "phoenix",
+      "station": "722780-23183",
+      "year": 2013,
+      "file": "722780-23183-2013.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2013/722780-23183-2013.gz",
+      "captured_utc": "2026-10-29T19:27:45.831108+00:00",
+      "bytes": 86848,
+      "sha256": "77bd60d835ddd014ee7fcd36911e29c8c43f572adfda9deebe610231375af566",
+      "object_headers": {
+        "ETag": "\"4f7dd370cd640ffb8f80831a84e80cd2\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:31:43 GMT",
+        "Content-Length": "86848"
+      },
+      "uncompressed_sha256": "836b16dad652686958e0640bb2a8f195ace550fd66444768863dfe7ba7ba4d8c",
+      "source_rows": 8760,
+      "final_head_verified_utc": "2026-10-29T19:28:23.397220+00:00"
+    },
+    {
+      "city": "phoenix",
+      "station": "722780-23183",
+      "year": 2014,
+      "file": "722780-23183-2014.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2014/722780-23183-2014.gz",
+      "captured_utc": "2026-10-29T19:27:46.159734+00:00",
+      "bytes": 86084,
+      "sha256": "d7c4c4e341d52a52e43fc0d4bcb8ef68fc0741b01b6ac3c54194c91710e7a45c",
+      "object_headers": {
+        "ETag": "\"dfd83f320886c41b80a1a182d21eddb5\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:32:03 GMT",
+        "Content-Length": "86084"
+      },
+      "uncompressed_sha256": "538f64fcd8234d8455238675a534f48f9794ae2c70eaa1adde66c2555f6d7ddd",
+      "source_rows": 8760,
+      "final_head_verified_utc": "2026-10-29T19:28:23.558954+00:00"
+    },
+    {
+      "city": "phoenix",
+      "station": "722780-23183",
+      "year": 2015,
+      "file": "722780-23183-2015.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2015/722780-23183-2015.gz",
+      "captured_utc": "2026-10-29T19:27:46.904804+00:00",
+      "bytes": 86906,
+      "sha256": "53bb37a299de004322ad4a0bf523e01aa8338caddc2feb287b31dc00590ddd83",
+      "object_headers": {
+        "ETag": "\"d778f25f4455d20b5b4550a633e26727\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:32:16 GMT",
+        "Content-Length": "86906"
+      },
+      "uncompressed_sha256": "c6ab04756756c3d7e0925a55a63f6738c02bd6c10c9839b9ac9fd44b8326380b",
+      "source_rows": 8759,
+      "final_head_verified_utc": "2026-10-29T19:28:23.723212+00:00"
+    },
+    {
+      "city": "phoenix",
+      "station": "722780-23183",
+      "year": 2016,
+      "file": "722780-23183-2016.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2016/722780-23183-2016.gz",
+      "captured_utc": "2026-10-29T19:27:47.212644+00:00",
+      "bytes": 86767,
+      "sha256": "0bde6eb83ceff250e515459b64b38a52a9499642ad1a80bbc4fb0e428d9780b5",
+      "object_headers": {
+        "ETag": "\"8dfaf05ec94f82f0bc3b482fa5ef05dc\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:32:26 GMT",
+        "Content-Length": "86767"
+      },
+      "uncompressed_sha256": "e4f44ea16fe93c72e09dec7b5432bec842445c55816dfbe2c0cc681212126854",
+      "source_rows": 8783,
+      "final_head_verified_utc": "2026-10-29T19:28:23.876445+00:00"
+    },
+    {
+      "city": "phoenix",
+      "station": "722780-23183",
+      "year": 2017,
+      "file": "722780-23183-2017.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2017/722780-23183-2017.gz",
+      "captured_utc": "2026-10-29T19:27:47.564429+00:00",
+      "bytes": 86466,
+      "sha256": "ee174c736749300528410a575bddb43a3eb174c10567054c4ef1da98ed80e2d7",
+      "object_headers": {
+        "ETag": "\"8feeb7e0029bb315e6c7e1ff3b6f040a\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:27:55 GMT",
+        "Content-Length": "86466"
+      },
+      "uncompressed_sha256": "db4a52e40ed116f0b1fcc17e0d28079b85e0831f0eadbeda5e7f37d4571ff2e5",
+      "source_rows": 8760,
+      "final_head_verified_utc": "2026-10-29T19:28:24.038796+00:00"
+    },
+    {
+      "city": "phoenix",
+      "station": "722780-23183",
+      "year": 2018,
+      "file": "722780-23183-2018.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2018/722780-23183-2018.gz",
+      "captured_utc": "2026-10-29T19:27:47.902693+00:00",
+      "bytes": 86718,
+      "sha256": "1aa3cfa486fa7658da99a4e2649d4abd3d7634b18ea98d7b89db873835cc4dcb",
+      "object_headers": {
+        "ETag": "\"f1716bf8ac7665b9c0df524a0094713f\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:27:32 GMT",
+        "Content-Length": "86718"
+      },
+      "uncompressed_sha256": "32319eabf3308c9c142c0345edc7e3e6805d09f93995dfe1787dca8282ccd13f",
+      "source_rows": 8760,
+      "final_head_verified_utc": "2026-10-29T19:28:24.203569+00:00"
+    },
+    {
+      "city": "phoenix",
+      "station": "722780-23183",
+      "year": 2019,
+      "file": "722780-23183-2019.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2019/722780-23183-2019.gz",
+      "captured_utc": "2026-10-29T19:27:48.239119+00:00",
+      "bytes": 87466,
+      "sha256": "3810d6e56b9811e7801e1470ffb10710f604075ff55597e42295c456eae8253c",
+      "object_headers": {
+        "ETag": "\"7aee65198f3d28851c002efe1a3441bb\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:26:56 GMT",
+        "Content-Length": "87466"
+      },
+      "uncompressed_sha256": "fd6b92ae38441bd339001c6a5a6453514ff6774139b2617ab39e63de08ff4386",
+      "source_rows": 8758,
+      "final_head_verified_utc": "2026-10-29T19:28:24.364398+00:00"
+    },
+    {
+      "city": "phoenix",
+      "station": "722780-23183",
+      "year": 2020,
+      "file": "722780-23183-2020.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2020/722780-23183-2020.gz",
+      "captured_utc": "2026-10-29T19:27:48.619504+00:00",
+      "bytes": 86382,
+      "sha256": "e2019ed8677f9eaf4867dc962a5746e2f857175cec05a11cd56676786fac4bd6",
+      "object_headers": {
+        "ETag": "\"2249482f3e5750593a729c55930c25e9\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:32:53 GMT",
+        "Content-Length": "86382"
+      },
+      "uncompressed_sha256": "950876cbc9b059ffeb4bad4783138a219d69d7af248218a3f18ecb16a659d1c1",
+      "source_rows": 8784,
+      "final_head_verified_utc": "2026-10-29T19:28:24.520649+00:00"
+    },
+    {
+      "city": "phoenix",
+      "station": "722780-23183",
+      "year": 2021,
+      "file": "722780-23183-2021.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2021/722780-23183-2021.gz",
+      "captured_utc": "2026-10-29T19:27:48.993051+00:00",
+      "bytes": 86968,
+      "sha256": "6c080d18a86413aa1dd90ebeed234b4621b28acfd728719781e20ac14486cff1",
+      "object_headers": {
+        "ETag": "\"bf5a27804251cadcbb130111a734ac22\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:34:42 GMT",
+        "Content-Length": "86968"
+      },
+      "uncompressed_sha256": "c915d23bb2cf1a1ba08384e11c24a551e6bc27ee6be5f92b0a47d2f393a4efa3",
+      "source_rows": 8760,
+      "final_head_verified_utc": "2026-10-29T19:28:24.694447+00:00"
+    },
+    {
+      "city": "phoenix",
+      "station": "722780-23183",
+      "year": 2022,
+      "file": "722780-23183-2022.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2022/722780-23183-2022.gz",
+      "captured_utc": "2026-10-29T19:27:49.320019+00:00",
+      "bytes": 86935,
+      "sha256": "9047cf201584774903ce7f9bccb881ae226cc301881151e7e423e44cd5271679",
+      "object_headers": {
+        "ETag": "\"b5d8d9e334254a6a5e40277e9b9edd85\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:35:38 GMT",
+        "Content-Length": "86935"
+      },
+      "uncompressed_sha256": "05b8e32b97c4b6a8dd55a607b5a8ded1e085d5c56c57b7030992aac734a4ee56",
+      "source_rows": 8760,
+      "final_head_verified_utc": "2026-10-29T19:28:24.870701+00:00"
+    },
+    {
+      "city": "phoenix",
+      "station": "722780-23183",
+      "year": 2023,
+      "file": "722780-23183-2023.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2023/722780-23183-2023.gz",
+      "captured_utc": "2026-10-29T19:27:49.642712+00:00",
+      "bytes": 86917,
+      "sha256": "91d246cdeb92d961b92fd619d84ecca9c520d92a19f993fcc2ce3c8aa16c606b",
+      "object_headers": {
+        "ETag": "\"8ab415998d8e598c71c868cd6b971090\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:36:11 GMT",
+        "Content-Length": "86917"
+      },
+      "uncompressed_sha256": "ac5e0738d5712be52db2f99ba1344cfa8af97f61f42767cd76f20d40ccf092bb",
+      "source_rows": 8760,
+      "final_head_verified_utc": "2026-10-29T19:28:25.028005+00:00"
+    },
+    {
+      "city": "phoenix",
+      "station": "722780-23183",
+      "year": 2024,
+      "file": "722780-23183-2024.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2024/722780-23183-2024.gz",
+      "captured_utc": "2026-10-29T19:27:49.982126+00:00",
+      "bytes": 86567,
+      "sha256": "d0541c71d3a0523725575557995c1bc17939d0f96add0d5285a59920ed96d44c",
+      "object_headers": {
+        "ETag": "\"e31fce2ea6bf6614cb168a34355a0b6a\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:36:30 GMT",
+        "Content-Length": "86567"
+      },
+      "uncompressed_sha256": "1ce84ca259a2fd12d1aafe1b1de22e666801b98419a051363834787bd9b33655",
+      "source_rows": 8770,
+      "final_head_verified_utc": "2026-10-29T19:28:25.191801+00:00"
+    },
+    {
+      "city": "miami",
+      "station": "722020-12839",
+      "year": 2010,
+      "file": "722020-12839-2010.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2010/722020-12839-2010.gz",
+      "captured_utc": "2026-10-29T19:27:50.348558+00:00",
+      "bytes": 84853,
+      "sha256": "5fea43d78a63bbd349e0d656f20df3badb29797519da597c3d0a635c32ada9d0",
+      "object_headers": {
+        "ETag": "\"90525c9a2993e1bd2d4bd0563db44c4f\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:31:30 GMT",
+        "Content-Length": "84853"
+      },
+      "uncompressed_sha256": "c48177cacb28a1983253f1c97625b9a6bbb5ec9cd59f3ec47a525b2320ac1ff6",
+      "source_rows": 8759,
+      "final_head_verified_utc": "2026-10-29T19:28:25.355578+00:00"
+    },
+    {
+      "city": "miami",
+      "station": "722020-12839",
+      "year": 2011,
+      "file": "722020-12839-2011.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2011/722020-12839-2011.gz",
+      "captured_utc": "2026-10-29T19:27:50.754861+00:00",
+      "bytes": 83431,
+      "sha256": "84e48b5c8d9446d630c28ce1c8b8304b7c1782d7de81d20dc3e7fec112137b77",
+      "object_headers": {
+        "ETag": "\"457cccf05fb43af4d3ef0862082bc4e5\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:33:48 GMT",
+        "Content-Length": "83431"
+      },
+      "uncompressed_sha256": "916f09c024af6384d43ca5caf0ed21f48ea650021447d276532df3d5ee459601",
+      "source_rows": 8760,
+      "final_head_verified_utc": "2026-10-29T19:28:25.519121+00:00"
+    },
+    {
+      "city": "miami",
+      "station": "722020-12839",
+      "year": 2012,
+      "file": "722020-12839-2012.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2012/722020-12839-2012.gz",
+      "captured_utc": "2026-10-29T19:27:51.113380+00:00",
+      "bytes": 83869,
+      "sha256": "caf8c96805cb73826ebb8d62593d76fec158cdc88a6413220fe81e9810a7a506",
+      "object_headers": {
+        "ETag": "\"3df08a2c28dc9e786251ea0e031c4f68\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:33:23 GMT",
+        "Content-Length": "83869"
+      },
+      "uncompressed_sha256": "aa61a0124ce1166dd124c0a1da47e83e94e36118719a435e86a24bf2b966f091",
+      "source_rows": 8783,
+      "final_head_verified_utc": "2026-10-29T19:28:25.678389+00:00"
+    },
+    {
+      "city": "miami",
+      "station": "722020-12839",
+      "year": 2013,
+      "file": "722020-12839-2013.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2013/722020-12839-2013.gz",
+      "captured_utc": "2026-10-29T19:27:51.504782+00:00",
+      "bytes": 83569,
+      "sha256": "1e443e7a4c83a886629b3ace586ce10cd94386cb65278c1f8535a475dae644f6",
+      "object_headers": {
+        "ETag": "\"4726d6fe1506497d170e405a4d1ab8b3\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:31:43 GMT",
+        "Content-Length": "83569"
+      },
+      "uncompressed_sha256": "d61eaf7cb6e55f4fb55e7cdc3b7939db39482cc90d0b5620d33020505867443e",
+      "source_rows": 8758,
+      "final_head_verified_utc": "2026-10-29T19:28:25.835178+00:00"
+    },
+    {
+      "city": "miami",
+      "station": "722020-12839",
+      "year": 2014,
+      "file": "722020-12839-2014.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2014/722020-12839-2014.gz",
+      "captured_utc": "2026-10-29T19:27:51.819368+00:00",
+      "bytes": 84029,
+      "sha256": "d5b536afa611ace724111501fda645870971abb93ee768a2dd02d869bea2192f",
+      "object_headers": {
+        "ETag": "\"f128f30a69a165cbbb060ba487d7015d\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:32:00 GMT",
+        "Content-Length": "84029"
+      },
+      "uncompressed_sha256": "fb969329f55f5bef23b4e62aeb3fdf0b8a57ac8abb2e3f9792613dc4b219c1bc",
+      "source_rows": 8760,
+      "final_head_verified_utc": "2026-10-29T19:28:25.995951+00:00"
+    },
+    {
+      "city": "miami",
+      "station": "722020-12839",
+      "year": 2015,
+      "file": "722020-12839-2015.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2015/722020-12839-2015.gz",
+      "captured_utc": "2026-10-29T19:27:52.155414+00:00",
+      "bytes": 83271,
+      "sha256": "621df84132b64c746753eb7e49fde077e7fb91ce55a7fce66ad541802f6fc607",
+      "object_headers": {
+        "ETag": "\"ba7885ad133a26f844b1041cf16f6703\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:32:08 GMT",
+        "Content-Length": "83271"
+      },
+      "uncompressed_sha256": "a7591581dfc7cb483fb1ab88888c3d36f6aa71bd692d4ad2f9efef451447786f",
+      "source_rows": 8760,
+      "final_head_verified_utc": "2026-10-29T19:28:26.155071+00:00"
+    },
+    {
+      "city": "miami",
+      "station": "722020-12839",
+      "year": 2016,
+      "file": "722020-12839-2016.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2016/722020-12839-2016.gz",
+      "captured_utc": "2026-10-29T19:27:52.494420+00:00",
+      "bytes": 84705,
+      "sha256": "4e0b548e43c692917d2f06ad9dacf01db5a3e510ce8e2a4f5d269682ed5292fa",
+      "object_headers": {
+        "ETag": "\"c5fdf0a4ccbeecf0067fb41ca81f193e\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:32:21 GMT",
+        "Content-Length": "84705"
+      },
+      "uncompressed_sha256": "e69aad3c0af2804fd67ea9047f928615501e9c0e7ee3aa2d738a2a7f7f593087",
+      "source_rows": 8784,
+      "final_head_verified_utc": "2026-10-29T19:28:26.316533+00:00"
+    },
+    {
+      "city": "miami",
+      "station": "722020-12839",
+      "year": 2017,
+      "file": "722020-12839-2017.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2017/722020-12839-2017.gz",
+      "captured_utc": "2026-10-29T19:27:52.844562+00:00",
+      "bytes": 83698,
+      "sha256": "4c19e3c999ad6066326511a545de88583eba5aeb3057e1dc1bb9eb864c30534b",
+      "object_headers": {
+        "ETag": "\"3429ae2fecd5e794d25ed22a17538ff8\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:27:50 GMT",
+        "Content-Length": "83698"
+      },
+      "uncompressed_sha256": "b66b5de2401ed6074913c0198905684b553fcef0d1c6aa9ce0e15eef11fd5d3e",
+      "source_rows": 8759,
+      "final_head_verified_utc": "2026-10-29T19:28:26.670395+00:00"
+    },
+    {
+      "city": "miami",
+      "station": "722020-12839",
+      "year": 2018,
+      "file": "722020-12839-2018.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2018/722020-12839-2018.gz",
+      "captured_utc": "2026-10-29T19:27:53.219832+00:00",
+      "bytes": 83248,
+      "sha256": "2b9fa85091358ab67532a2d9b77a3864523b536bc8b44255514cc16595d1666d",
+      "object_headers": {
+        "ETag": "\"16b8798b60f877ac0ab56b573d937c92\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:27:35 GMT",
+        "Content-Length": "83248"
+      },
+      "uncompressed_sha256": "db9103dedcc516a2ab16c66f5c2fb9bebad30c5d631ca942269e378fc2a0d544",
+      "source_rows": 8758,
+      "final_head_verified_utc": "2026-10-29T19:28:26.838191+00:00"
+    },
+    {
+      "city": "miami",
+      "station": "722020-12839",
+      "year": 2019,
+      "file": "722020-12839-2019.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2019/722020-12839-2019.gz",
+      "captured_utc": "2026-10-29T19:27:53.558764+00:00",
+      "bytes": 83704,
+      "sha256": "b2a332d811f9fbb42fa4364472ca812a20ccfdeaa96f6a441c64e89e448756f0",
+      "object_headers": {
+        "ETag": "\"a2d8d2183583f2b6a48979610e6a4c4b\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:26:55 GMT",
+        "Content-Length": "83704"
+      },
+      "uncompressed_sha256": "9ea447a5cab42c3c753dea4651a170c9f96c115e6bdc9f9cc3d498f72819f029",
+      "source_rows": 8759,
+      "final_head_verified_utc": "2026-10-29T19:28:27.010484+00:00"
+    },
+    {
+      "city": "miami",
+      "station": "722020-12839",
+      "year": 2020,
+      "file": "722020-12839-2020.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2020/722020-12839-2020.gz",
+      "captured_utc": "2026-10-29T19:27:53.921922+00:00",
+      "bytes": 84992,
+      "sha256": "bb9679c9f7d5343564ac14a9428cd7ae79efe28cfb90855e33c00a4433cb7cbd",
+      "object_headers": {
+        "ETag": "\"3e71abf3ba066fbc6b96e1c99c525068\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:32:52 GMT",
+        "Content-Length": "84992"
+      },
+      "uncompressed_sha256": "1154716355498721e6ba274ff0eda2db650224dc8866488d8d713a03383b5309",
+      "source_rows": 8784,
+      "final_head_verified_utc": "2026-10-29T19:28:27.171431+00:00"
+    },
+    {
+      "city": "miami",
+      "station": "722020-12839",
+      "year": 2021,
+      "file": "722020-12839-2021.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2021/722020-12839-2021.gz",
+      "captured_utc": "2026-10-29T19:27:54.241378+00:00",
+      "bytes": 82939,
+      "sha256": "da8b88750778c8c9699151b7127ef3b359678609b362f5ddbb59dfed09a0af07",
+      "object_headers": {
+        "ETag": "\"085628f5d5343de8c7e7e1bf3f1034d7\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:34:43 GMT",
+        "Content-Length": "82939"
+      },
+      "uncompressed_sha256": "ae28a3361a1ccaaf88ff8d72128e0838624186ae1c0649c8683ae3cdf3f3ea9d",
+      "source_rows": 8759,
+      "final_head_verified_utc": "2026-10-29T19:28:27.329764+00:00"
+    },
+    {
+      "city": "miami",
+      "station": "722020-12839",
+      "year": 2022,
+      "file": "722020-12839-2022.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2022/722020-12839-2022.gz",
+      "captured_utc": "2026-10-29T19:27:54.596574+00:00",
+      "bytes": 83190,
+      "sha256": "0a7b26d7dc5ac90001ad75e540e6de86d8aa12d7467ff98735061dc371016b1c",
+      "object_headers": {
+        "ETag": "\"2d3e2e412e61f579c0afcffc500314d2\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:35:38 GMT",
+        "Content-Length": "83190"
+      },
+      "uncompressed_sha256": "bad98c3c597fed3b750bad40ddeb8b213681c825dec4896733b9945a95c50957",
+      "source_rows": 8759,
+      "final_head_verified_utc": "2026-10-29T19:28:27.489156+00:00"
+    },
+    {
+      "city": "miami",
+      "station": "722020-12839",
+      "year": 2023,
+      "file": "722020-12839-2023.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2023/722020-12839-2023.gz",
+      "captured_utc": "2026-10-29T19:27:54.970463+00:00",
+      "bytes": 83472,
+      "sha256": "59b5845f3914220cbca8231de37acd68d52db2acf47a7d061236decf6b185a51",
+      "object_headers": {
+        "ETag": "\"f49ca18338a1d0ccb9a7368d53fb630b\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:36:09 GMT",
+        "Content-Length": "83472"
+      },
+      "uncompressed_sha256": "e63293100332f40170330241553554f5421a9f733c2f0f245f89584f69e302e5",
+      "source_rows": 8760,
+      "final_head_verified_utc": "2026-10-29T19:28:27.649273+00:00"
+    },
+    {
+      "city": "miami",
+      "station": "722020-12839",
+      "year": 2024,
+      "file": "722020-12839-2024.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2024/722020-12839-2024.gz",
+      "captured_utc": "2026-10-29T19:27:55.268213+00:00",
+      "bytes": 83495,
+      "sha256": "fcb9c0604da56038c2faaed06841a99696edb464a2e0daa60b3cf014ada58a49",
+      "object_headers": {
+        "ETag": "\"3c599d034e978c1ed70ecfdb1920da9e\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:36:27 GMT",
+        "Content-Length": "83495"
+      },
+      "uncompressed_sha256": "e4ba0b003636216dafd62861114ff5ece4e536dba5c759ea265f4eb75b9d4880",
+      "source_rows": 8767,
+      "final_head_verified_utc": "2026-10-29T19:28:27.806601+00:00"
+    },
+    {
+      "city": "atlanta",
+      "station": "722190-13874",
+      "year": 2010,
+      "file": "722190-13874-2010.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2010/722190-13874-2010.gz",
+      "captured_utc": "2026-10-29T19:27:55.566370+00:00",
+      "bytes": 87326,
+      "sha256": "fd84771794ac484cf0ad65fe2fd34259ab1987e840cd809c060e45a6f31191a9",
+      "object_headers": {
+        "ETag": "\"d223d0f20e776567dcf392b64614c871\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:31:29 GMT",
+        "Content-Length": "87326"
+      },
+      "uncompressed_sha256": "0e22974487c40a36a77f9659fea7a88148cd54726859ce08fe859695f4639a6e",
+      "source_rows": 8756,
+      "final_head_verified_utc": "2026-10-29T19:28:27.966995+00:00"
+    },
+    {
+      "city": "atlanta",
+      "station": "722190-13874",
+      "year": 2011,
+      "file": "722190-13874-2011.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2011/722190-13874-2011.gz",
+      "captured_utc": "2026-10-29T19:27:55.870445+00:00",
+      "bytes": 88299,
+      "sha256": "fc9ed66bcef5090631b49f075bb1e58482d769e55f106b3cae0836ba48a8ee43",
+      "object_headers": {
+        "ETag": "\"51e033e283db8b5a6df2c7375f92273a\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:33:48 GMT",
+        "Content-Length": "88299"
+      },
+      "uncompressed_sha256": "28aea10f7c629a5c78744e4a0d58fa4a1d3df5285e7f914754c6d36803d49e9c",
+      "source_rows": 8759,
+      "final_head_verified_utc": "2026-10-29T19:28:28.115893+00:00"
+    },
+    {
+      "city": "atlanta",
+      "station": "722190-13874",
+      "year": 2012,
+      "file": "722190-13874-2012.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2012/722190-13874-2012.gz",
+      "captured_utc": "2026-10-29T19:27:56.180001+00:00",
+      "bytes": 87982,
+      "sha256": "2e2e99f9500e81a33d19edc17b57f1df6343c4228de28564b31e5a349f2d6266",
+      "object_headers": {
+        "ETag": "\"1959293a994fdb224bf5c4416e198226\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:33:31 GMT",
+        "Content-Length": "87982"
+      },
+      "uncompressed_sha256": "f42a44933e883b99f06a6a306a80134b67b7b6e3d9d04c7fcd3c34e9e35d88f5",
+      "source_rows": 8783,
+      "final_head_verified_utc": "2026-10-29T19:28:28.274753+00:00"
+    },
+    {
+      "city": "atlanta",
+      "station": "722190-13874",
+      "year": 2013,
+      "file": "722190-13874-2013.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2013/722190-13874-2013.gz",
+      "captured_utc": "2026-10-29T19:27:56.511081+00:00",
+      "bytes": 87528,
+      "sha256": "05f749da53eb6cb3640d4adf137d3b0e6d2e704a6ae724d0089c9ad81d76a538",
+      "object_headers": {
+        "ETag": "\"b4f980f0c06d17213351dbfd83d089cc\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:31:46 GMT",
+        "Content-Length": "87528"
+      },
+      "uncompressed_sha256": "f0fde1a5ef82cac22cf6a8659c1bd1f7eb2767e9d11fcc40c5179d6b45f61a69",
+      "source_rows": 8759,
+      "final_head_verified_utc": "2026-10-29T19:28:28.425897+00:00"
+    },
+    {
+      "city": "atlanta",
+      "station": "722190-13874",
+      "year": 2014,
+      "file": "722190-13874-2014.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2014/722190-13874-2014.gz",
+      "captured_utc": "2026-10-29T19:27:56.839955+00:00",
+      "bytes": 87217,
+      "sha256": "c39da25d64609ae3d1bc05c21d865e3ac143517ba0e7ce2fad67b8db4bb416db",
+      "object_headers": {
+        "ETag": "\"3dc613e428d5c578bd34ed24ba6eceda\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:31:54 GMT",
+        "Content-Length": "87217"
+      },
+      "uncompressed_sha256": "afbed592bb299d27a6e7226fbd0139f5539fd9dd24a6d7bbe459126e79ae296f",
+      "source_rows": 8759,
+      "final_head_verified_utc": "2026-10-29T19:28:28.586660+00:00"
+    },
+    {
+      "city": "atlanta",
+      "station": "722190-13874",
+      "year": 2015,
+      "file": "722190-13874-2015.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2015/722190-13874-2015.gz",
+      "captured_utc": "2026-10-29T19:27:57.135078+00:00",
+      "bytes": 87270,
+      "sha256": "104d4cfa565bfcb0c9f1d0b0f807a68853a074bcd9635e349b71a723855f38d1",
+      "object_headers": {
+        "ETag": "\"443bda95a693ffc6bb1778dd5fd2bf7a\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:32:08 GMT",
+        "Content-Length": "87270"
+      },
+      "uncompressed_sha256": "c5532f7489b7a7fe201746bd52d826dfc756ac8f8c15be4ff95d28d8bf5b0b57",
+      "source_rows": 8760,
+      "final_head_verified_utc": "2026-10-29T19:28:28.730443+00:00"
+    },
+    {
+      "city": "atlanta",
+      "station": "722190-13874",
+      "year": 2016,
+      "file": "722190-13874-2016.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2016/722190-13874-2016.gz",
+      "captured_utc": "2026-10-29T19:27:57.462640+00:00",
+      "bytes": 87421,
+      "sha256": "273e517e6d7668765352c9a91137d71b2e25a9df284746182d3c6f8aa516d53e",
+      "object_headers": {
+        "ETag": "\"5228a6efe7547ce31f5f52b29f99760e\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:32:21 GMT",
+        "Content-Length": "87421"
+      },
+      "uncompressed_sha256": "45fc14e7903c2ee5e3cd8d6d307d77d56efe64627d778f29c97c5a861386dc8b",
+      "source_rows": 8784,
+      "final_head_verified_utc": "2026-10-29T19:28:28.874188+00:00"
+    },
+    {
+      "city": "atlanta",
+      "station": "722190-13874",
+      "year": 2017,
+      "file": "722190-13874-2017.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2017/722190-13874-2017.gz",
+      "captured_utc": "2026-10-29T19:27:57.799034+00:00",
+      "bytes": 87665,
+      "sha256": "a1f4a21e1e631264464bb90dd7031dd15ce313067d2e9de452d76aef4d210602",
+      "object_headers": {
+        "ETag": "\"31284b1eed45fe753f3a0e08fe28dd55\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:27:54 GMT",
+        "Content-Length": "87665"
+      },
+      "uncompressed_sha256": "1d9d4740be7c886abd4b96b8619cab761375fd3046f37da2cc09114116bf179b",
+      "source_rows": 8759,
+      "final_head_verified_utc": "2026-10-29T19:28:29.016466+00:00"
+    },
+    {
+      "city": "atlanta",
+      "station": "722190-13874",
+      "year": 2018,
+      "file": "722190-13874-2018.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2018/722190-13874-2018.gz",
+      "captured_utc": "2026-10-29T19:27:58.194022+00:00",
+      "bytes": 87286,
+      "sha256": "d58185d896d453793f3b93fe35ad4f4062fc0e3b45edcfbc26c3a88e763a7fb7",
+      "object_headers": {
+        "ETag": "\"deedd7b1e52c331429282f971dce3558\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:27:36 GMT",
+        "Content-Length": "87286"
+      },
+      "uncompressed_sha256": "845de65e2f4612082af26b577c8af63c69ed3775174c2c3e37fb4d284131967e",
+      "source_rows": 8760,
+      "final_head_verified_utc": "2026-10-29T19:28:29.173265+00:00"
+    },
+    {
+      "city": "atlanta",
+      "station": "722190-13874",
+      "year": 2019,
+      "file": "722190-13874-2019.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2019/722190-13874-2019.gz",
+      "captured_utc": "2026-10-29T19:27:58.528338+00:00",
+      "bytes": 87372,
+      "sha256": "00f3285ab479168ea7d79cd49f36a8fcda850daf4459640e240ef1901395cc43",
+      "object_headers": {
+        "ETag": "\"71f03e62ddb598026f26e89de43bd536\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:26:56 GMT",
+        "Content-Length": "87372"
+      },
+      "uncompressed_sha256": "2a0f54854d25f271a2c8fe68b0ccafaf6f69809d6dc18400faa5743fba2b7228",
+      "source_rows": 8760,
+      "final_head_verified_utc": "2026-10-29T19:28:29.325125+00:00"
+    },
+    {
+      "city": "atlanta",
+      "station": "722190-13874",
+      "year": 2020,
+      "file": "722190-13874-2020.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2020/722190-13874-2020.gz",
+      "captured_utc": "2026-10-29T19:27:58.881966+00:00",
+      "bytes": 88077,
+      "sha256": "25cc928fc9ef89536bc041ec0c9fd0ec0b2ba1c0e0e7f55afbffaafb170df4ef",
+      "object_headers": {
+        "ETag": "\"5ea02da8aefe82c0fc267fd65cbc91cb\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:32:52 GMT",
+        "Content-Length": "88077"
+      },
+      "uncompressed_sha256": "79a68e668328803c5c61ca4a3ba7c51f4b396f8a58e56b8cacd14ea37d9116e4",
+      "source_rows": 8784,
+      "final_head_verified_utc": "2026-10-29T19:28:29.470878+00:00"
+    },
+    {
+      "city": "atlanta",
+      "station": "722190-13874",
+      "year": 2021,
+      "file": "722190-13874-2021.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2021/722190-13874-2021.gz",
+      "captured_utc": "2026-10-29T19:27:59.194441+00:00",
+      "bytes": 86792,
+      "sha256": "2c29da5be637294a752d1b7b6c906cfdbf340ee104a84b852587c8295f7d7ac3",
+      "object_headers": {
+        "ETag": "\"dbe209634b2065dd30b271cdd759c4ff\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:34:42 GMT",
+        "Content-Length": "86792"
+      },
+      "uncompressed_sha256": "cc9c7e76b0dc442465469207a0b1ab9d1294b0a7a2b0a3b7080addb1243a5682",
+      "source_rows": 8760,
+      "final_head_verified_utc": "2026-10-29T19:28:29.620214+00:00"
+    },
+    {
+      "city": "atlanta",
+      "station": "722190-13874",
+      "year": 2022,
+      "file": "722190-13874-2022.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2022/722190-13874-2022.gz",
+      "captured_utc": "2026-10-29T19:27:59.504040+00:00",
+      "bytes": 87198,
+      "sha256": "e796f6f9a35bcc55414497dd17adb4b5c893ae3606a098b1f9e9fd7ac8ff86b3",
+      "object_headers": {
+        "ETag": "\"dd239107d81d04444a5b51ff67470cbf\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:35:37 GMT",
+        "Content-Length": "87198"
+      },
+      "uncompressed_sha256": "01ee61540a08edb71d1a8f874f22831e598a23702be6c22a806a06c0a91794b3",
+      "source_rows": 8760,
+      "final_head_verified_utc": "2026-10-29T19:28:29.791982+00:00"
+    },
+    {
+      "city": "atlanta",
+      "station": "722190-13874",
+      "year": 2023,
+      "file": "722190-13874-2023.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2023/722190-13874-2023.gz",
+      "captured_utc": "2026-10-29T19:27:59.825646+00:00",
+      "bytes": 87371,
+      "sha256": "43a4e4288fab7eeb9bd7c976f6eaa1c215a32d720e992f05b4261972eae84c62",
+      "object_headers": {
+        "ETag": "\"4ee823a64bfa8a12fd745736c675786f\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:36:09 GMT",
+        "Content-Length": "87371"
+      },
+      "uncompressed_sha256": "441c6ca6bf91cd88f58690da2f39b518ef87f146abbc0ca75c8adef30718efa0",
+      "source_rows": 8760,
+      "final_head_verified_utc": "2026-10-29T19:28:29.940721+00:00"
+    },
+    {
+      "city": "atlanta",
+      "station": "722190-13874",
+      "year": 2024,
+      "file": "722190-13874-2024.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2024/722190-13874-2024.gz",
+      "captured_utc": "2026-10-29T19:28:00.161995+00:00",
+      "bytes": 87763,
+      "sha256": "2770db95cdcf4bcd0f80d66b7521e390956b858d36cdc1cba82e7d001ad88f71",
+      "object_headers": {
+        "ETag": "\"6699e01bd36a2b779778901daa10f607\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:36:27 GMT",
+        "Content-Length": "87763"
+      },
+      "uncompressed_sha256": "76dd2e47bcce7007cd8700e391cd2782998327799d38ef391336b328c6843866",
+      "source_rows": 8780,
+      "final_head_verified_utc": "2026-10-29T19:28:30.099469+00:00"
+    },
+    {
+      "city": "dallas",
+      "station": "722590-03927",
+      "year": 2010,
+      "file": "722590-03927-2010.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2010/722590-03927-2010.gz",
+      "captured_utc": "2026-10-29T19:28:00.542077+00:00",
+      "bytes": 88502,
+      "sha256": "1cfeed84eba4d524f4b2f68bad9610307149c27235cb2e9ac46188e03eb92039",
+      "object_headers": {
+        "ETag": "\"fb768c090cec5ea4328472e30d88dcf6\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:31:36 GMT",
+        "Content-Length": "88502"
+      },
+      "uncompressed_sha256": "c9b8903b8ddf8cb8cde10bfd28f6f7f3fa9714d2bb30987965dc56cfd7b08cbd",
+      "source_rows": 8760,
+      "final_head_verified_utc": "2026-10-29T19:28:30.256749+00:00"
+    },
+    {
+      "city": "dallas",
+      "station": "722590-03927",
+      "year": 2011,
+      "file": "722590-03927-2011.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2011/722590-03927-2011.gz",
+      "captured_utc": "2026-10-29T19:28:00.861591+00:00",
+      "bytes": 88640,
+      "sha256": "9ed59bf6ab4ab8bc9d23dada4b163b12c859c1fa3b59d1caafb086a811e76f7d",
+      "object_headers": {
+        "ETag": "\"49ad6f9ef9afbe08a0f5e1cfdb03f9b4\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:33:49 GMT",
+        "Content-Length": "88640"
+      },
+      "uncompressed_sha256": "bcdd73e033a379872a51c0a86bcab9c378d6998390f3750f7c425074ef70788d",
+      "source_rows": 8760,
+      "final_head_verified_utc": "2026-10-29T19:28:30.408901+00:00"
+    },
+    {
+      "city": "dallas",
+      "station": "722590-03927",
+      "year": 2012,
+      "file": "722590-03927-2012.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2012/722590-03927-2012.gz",
+      "captured_utc": "2026-10-29T19:28:01.196079+00:00",
+      "bytes": 89093,
+      "sha256": "e42463debea0562f64c9b2d3dc80ad2c1fb7eb9b5a166246474493d6d7568fe6",
+      "object_headers": {
+        "ETag": "\"84efcdd34de96d1ff177a2b26936c6af\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:33:31 GMT",
+        "Content-Length": "89093"
+      },
+      "uncompressed_sha256": "2257a48a0519a14f3fb19aae49aae7ad181903e3441d891a0fbfe39bc1b18667",
+      "source_rows": 8784,
+      "final_head_verified_utc": "2026-10-29T19:28:30.575171+00:00"
+    },
+    {
+      "city": "dallas",
+      "station": "722590-03927",
+      "year": 2013,
+      "file": "722590-03927-2013.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2013/722590-03927-2013.gz",
+      "captured_utc": "2026-10-29T19:28:01.524908+00:00",
+      "bytes": 89258,
+      "sha256": "d066a3bd8bcf6af4e695cfa1a75092914954be1d8abe7e57180219fe1f224c6f",
+      "object_headers": {
+        "ETag": "\"b2821f1674b7debc84ca53fcd28aa59a\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:31:42 GMT",
+        "Content-Length": "89258"
+      },
+      "uncompressed_sha256": "d874471c9942a5450ad0b3b0f8c8579d17ca094b0a10d7ea8d1757dd50c06df7",
+      "source_rows": 8759,
+      "final_head_verified_utc": "2026-10-29T19:28:30.721532+00:00"
+    },
+    {
+      "city": "dallas",
+      "station": "722590-03927",
+      "year": 2014,
+      "file": "722590-03927-2014.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2014/722590-03927-2014.gz",
+      "captured_utc": "2026-10-29T19:28:01.836471+00:00",
+      "bytes": 89120,
+      "sha256": "5d54493552cead6de409dd88515e7ad9f95f581479c8093925d6e7108fe7fb2f",
+      "object_headers": {
+        "ETag": "\"01263f832f46dd04df06d4ed423ffcdc\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:31:55 GMT",
+        "Content-Length": "89120"
+      },
+      "uncompressed_sha256": "72c1c374c9a9fe5c18bb636a7b5aea2ff508a1df21b68462049dc6dfa2857110",
+      "source_rows": 8760,
+      "final_head_verified_utc": "2026-10-29T19:28:30.884803+00:00"
+    },
+    {
+      "city": "dallas",
+      "station": "722590-03927",
+      "year": 2015,
+      "file": "722590-03927-2015.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2015/722590-03927-2015.gz",
+      "captured_utc": "2026-10-29T19:28:02.197476+00:00",
+      "bytes": 88172,
+      "sha256": "3677289117f5a0865091a20a4edfb412cf7ececdeda250a5df75f9787c69d04e",
+      "object_headers": {
+        "ETag": "\"439e4be5cdd17f08883286369e224e61\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:32:08 GMT",
+        "Content-Length": "88172"
+      },
+      "uncompressed_sha256": "c735227ba60baf32d821cd8c6b7ceeaae9d34e7904979dd9d6e3993058af1c7e",
+      "source_rows": 8760,
+      "final_head_verified_utc": "2026-10-29T19:28:31.051065+00:00"
+    },
+    {
+      "city": "dallas",
+      "station": "722590-03927",
+      "year": 2016,
+      "file": "722590-03927-2016.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2016/722590-03927-2016.gz",
+      "captured_utc": "2026-10-29T19:28:02.508800+00:00",
+      "bytes": 88498,
+      "sha256": "662ddb1879099863ef756853f94b6282f312d728b5571cf59912cdf9cbf327ba",
+      "object_headers": {
+        "ETag": "\"45fa115791174d1847fbdd96f6c07c35\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:32:26 GMT",
+        "Content-Length": "88498"
+      },
+      "uncompressed_sha256": "9b102ef6cbd0d0947c50e710484cf542e9ec5be09967ae5d9ac8862ef7dc15c9",
+      "source_rows": 8784,
+      "final_head_verified_utc": "2026-10-29T19:28:31.195778+00:00"
+    },
+    {
+      "city": "dallas",
+      "station": "722590-03927",
+      "year": 2017,
+      "file": "722590-03927-2017.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2017/722590-03927-2017.gz",
+      "captured_utc": "2026-10-29T19:28:02.973982+00:00",
+      "bytes": 88959,
+      "sha256": "30a3ab23dd82a5a75c3afbcd0666acaff53a11158a65f17197df84e31b2c455c",
+      "object_headers": {
+        "ETag": "\"42c26900f32c062b0dcbe6cd8f431e6a\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:27:52 GMT",
+        "Content-Length": "88959"
+      },
+      "uncompressed_sha256": "a6e8fa120c6fe8bb7798dc89d74fa610b3ec969ece08c151b5b2c964f71eea94",
+      "source_rows": 8760,
+      "final_head_verified_utc": "2026-10-29T19:28:31.341698+00:00"
+    },
+    {
+      "city": "dallas",
+      "station": "722590-03927",
+      "year": 2018,
+      "file": "722590-03927-2018.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2018/722590-03927-2018.gz",
+      "captured_utc": "2026-10-29T19:28:03.278334+00:00",
+      "bytes": 89513,
+      "sha256": "6a263c84578adaf5c261da8a91847e4fb5e9f2162a7ab1e23e599389978b247e",
+      "object_headers": {
+        "ETag": "\"6078cf6153a80aa09f1707d62e627e43\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:27:34 GMT",
+        "Content-Length": "89513"
+      },
+      "uncompressed_sha256": "2471190e2662b0a74cf47c2f4813e861ef8ab3295018882b75d1963b0f575949",
+      "source_rows": 8760,
+      "final_head_verified_utc": "2026-10-29T19:28:31.490450+00:00"
+    },
+    {
+      "city": "dallas",
+      "station": "722590-03927",
+      "year": 2019,
+      "file": "722590-03927-2019.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2019/722590-03927-2019.gz",
+      "captured_utc": "2026-10-29T19:28:03.604272+00:00",
+      "bytes": 88535,
+      "sha256": "2112d8ba58241bfee6a37effaa5779314226d347467770afcecab4751ed0b7c6",
+      "object_headers": {
+        "ETag": "\"7aa9b27b41ec27eff5015f5c936b7ba3\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:26:51 GMT",
+        "Content-Length": "88535"
+      },
+      "uncompressed_sha256": "89eac8484844e24d42cf76f3ef723733def080391babe262d1e00ad9650809e4",
+      "source_rows": 8757,
+      "final_head_verified_utc": "2026-10-29T19:28:31.630687+00:00"
+    },
+    {
+      "city": "dallas",
+      "station": "722590-03927",
+      "year": 2020,
+      "file": "722590-03927-2020.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2020/722590-03927-2020.gz",
+      "captured_utc": "2026-10-29T19:28:03.957624+00:00",
+      "bytes": 89511,
+      "sha256": "02f14d30a746131ddb66ea91af4062fb29c8975f0c43aed0bd32318706aa6f58",
+      "object_headers": {
+        "ETag": "\"df39fbb948b9e5e6f96ef5e92d87f09c\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:32:52 GMT",
+        "Content-Length": "89511"
+      },
+      "uncompressed_sha256": "47c0a0d627cfba83e59adf9a7e273ab96bc99bcd79f7aaef50082d83fff6cfef",
+      "source_rows": 8784,
+      "final_head_verified_utc": "2026-10-29T19:28:31.781354+00:00"
+    },
+    {
+      "city": "dallas",
+      "station": "722590-03927",
+      "year": 2021,
+      "file": "722590-03927-2021.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2021/722590-03927-2021.gz",
+      "captured_utc": "2026-10-29T19:28:04.256663+00:00",
+      "bytes": 88704,
+      "sha256": "2b94c98d3621158b5dcba6eb95372dc21bc6ac21327b49ac1593db780dc2f212",
+      "object_headers": {
+        "ETag": "\"03c74f71f962f03232ea2333509d48f4\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:34:46 GMT",
+        "Content-Length": "88704"
+      },
+      "uncompressed_sha256": "d16c9352ab66b852b930640e961a1816a134851fec94c9f85e774c95f0175425",
+      "source_rows": 8759,
+      "final_head_verified_utc": "2026-10-29T19:28:31.941657+00:00"
+    },
+    {
+      "city": "dallas",
+      "station": "722590-03927",
+      "year": 2022,
+      "file": "722590-03927-2022.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2022/722590-03927-2022.gz",
+      "captured_utc": "2026-10-29T19:28:04.595789+00:00",
+      "bytes": 89132,
+      "sha256": "05e48b431caf97acf72caed367a1c910765a50d2710784873e09b50cc55392ac",
+      "object_headers": {
+        "ETag": "\"ea7351d15f8c01f072d06d9f98bc4d4a\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:35:47 GMT",
+        "Content-Length": "89132"
+      },
+      "uncompressed_sha256": "a7752430692da363b832df9998ca936c37a19438bc45132f561f5e12adc3d2d2",
+      "source_rows": 8760,
+      "final_head_verified_utc": "2026-10-29T19:28:32.108945+00:00"
+    },
+    {
+      "city": "dallas",
+      "station": "722590-03927",
+      "year": 2023,
+      "file": "722590-03927-2023.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2023/722590-03927-2023.gz",
+      "captured_utc": "2026-10-29T19:28:04.906851+00:00",
+      "bytes": 88813,
+      "sha256": "c98dccce09bf5809cb366ea5e87482270de1bc0319117acce5887c5e52a16690",
+      "object_headers": {
+        "ETag": "\"91fd26a841c3a31349f5ce0c411999a3\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:36:12 GMT",
+        "Content-Length": "88813"
+      },
+      "uncompressed_sha256": "b5aebdc38438cfe53172be79f7a19a2c99a43238ff428600250f419f6fd734ae",
+      "source_rows": 8760,
+      "final_head_verified_utc": "2026-10-29T19:28:32.278086+00:00"
+    },
+    {
+      "city": "dallas",
+      "station": "722590-03927",
+      "year": 2024,
+      "file": "722590-03927-2024.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2024/722590-03927-2024.gz",
+      "captured_utc": "2026-10-29T19:28:05.201338+00:00",
+      "bytes": 88412,
+      "sha256": "9a8958b01abc81a972a4a6d9f5d1ef4fa80c0d37a1a01f68456493e0c1791da8",
+      "object_headers": {
+        "ETag": "\"adb78dfc44e2c768ee2c756eb859e72f\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:36:27 GMT",
+        "Content-Length": "88412"
+      },
+      "uncompressed_sha256": "c8ae8a2512db83d95a24229972656d2f0ceeee222567e99cf796f1a009a42b27",
+      "source_rows": 8777,
+      "final_head_verified_utc": "2026-10-29T19:28:32.422847+00:00"
+    },
+    {
+      "city": "seattle",
+      "station": "727930-24233",
+      "year": 2010,
+      "file": "727930-24233-2010.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2010/727930-24233-2010.gz",
+      "captured_utc": "2026-10-29T19:28:05.523710+00:00",
+      "bytes": 87934,
+      "sha256": "587d82832cb7d0b002ef6312dc1fddef311dda29afb0d6d3ae7db2ccd7fd49fe",
+      "object_headers": {
+        "ETag": "\"a5c41914210a0e8c5c4bcf38bd078095\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:31:31 GMT",
+        "Content-Length": "87934"
+      },
+      "uncompressed_sha256": "8c0e9973d1129e43812425d8217e214be37304876e95f692cf707e0d4e7c3fb1",
+      "source_rows": 8758,
+      "final_head_verified_utc": "2026-10-29T19:28:32.576114+00:00"
+    },
+    {
+      "city": "seattle",
+      "station": "727930-24233",
+      "year": 2011,
+      "file": "727930-24233-2011.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2011/727930-24233-2011.gz",
+      "captured_utc": "2026-10-29T19:28:05.851189+00:00",
+      "bytes": 87015,
+      "sha256": "f4dcf220380f2d13fb4703cbf48fd404bbe3fc07a64b5b7185a55add2f53b67f",
+      "object_headers": {
+        "ETag": "\"b2f86c01578a2f8415c69e6d89cd9f0c\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:33:49 GMT",
+        "Content-Length": "87015"
+      },
+      "uncompressed_sha256": "1b448e88a6058c53e5c742d3f23850aa6e9c7f99fb068136c58be48e462059ba",
+      "source_rows": 8759,
+      "final_head_verified_utc": "2026-10-29T19:28:32.734065+00:00"
+    },
+    {
+      "city": "seattle",
+      "station": "727930-24233",
+      "year": 2012,
+      "file": "727930-24233-2012.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2012/727930-24233-2012.gz",
+      "captured_utc": "2026-10-29T19:28:06.156667+00:00",
+      "bytes": 87982,
+      "sha256": "d7744b68a7e8d922c46ae34fa3d496db0e053ea795f55a55e07efcb1f81bfede",
+      "object_headers": {
+        "ETag": "\"5b85c4f878975a7085ed7a28aa0f9279\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:33:25 GMT",
+        "Content-Length": "87982"
+      },
+      "uncompressed_sha256": "d629eeb5a527972efd73d202d4f50e9c1151d50e9710561b85874fe29d319fb5",
+      "source_rows": 8784,
+      "final_head_verified_utc": "2026-10-29T19:28:32.883325+00:00"
+    },
+    {
+      "city": "seattle",
+      "station": "727930-24233",
+      "year": 2013,
+      "file": "727930-24233-2013.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2013/727930-24233-2013.gz",
+      "captured_utc": "2026-10-29T19:28:06.498350+00:00",
+      "bytes": 85428,
+      "sha256": "801f946d0eb5f41668d227b435789bb920dca0b00d0325b1f1abe85f26565e04",
+      "object_headers": {
+        "ETag": "\"b065be2d34ed18c8e65d0308ed5a0377\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:31:44 GMT",
+        "Content-Length": "85428"
+      },
+      "uncompressed_sha256": "622d4ef7f08bbad253dfec54880b8383affa0dc5f8f50402cb544e570641eb7f",
+      "source_rows": 8760,
+      "final_head_verified_utc": "2026-10-29T19:28:33.039637+00:00"
+    },
+    {
+      "city": "seattle",
+      "station": "727930-24233",
+      "year": 2014,
+      "file": "727930-24233-2014.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2014/727930-24233-2014.gz",
+      "captured_utc": "2026-10-29T19:28:06.881516+00:00",
+      "bytes": 87356,
+      "sha256": "a2660a5a842cf3c97fc1e30a1ec27f37cddbd73611db7a645b7effa0ca0b307e",
+      "object_headers": {
+        "ETag": "\"96fbbee4a2fb3443516523d25a6ed65d\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:31:56 GMT",
+        "Content-Length": "87356"
+      },
+      "uncompressed_sha256": "ad38796e2b36b0cf00a5f0074a4b79a81770bbd7efeefda85a98e7c228ec2c48",
+      "source_rows": 8760,
+      "final_head_verified_utc": "2026-10-29T19:28:33.201372+00:00"
+    },
+    {
+      "city": "seattle",
+      "station": "727930-24233",
+      "year": 2015,
+      "file": "727930-24233-2015.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2015/727930-24233-2015.gz",
+      "captured_utc": "2026-10-29T19:28:07.195067+00:00",
+      "bytes": 86457,
+      "sha256": "6f4b89729281bdb8bd807ac626b5f841436c834b050da7b35393be55ffb1354b",
+      "object_headers": {
+        "ETag": "\"45b332085148a178345dbd18e069e149\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:32:17 GMT",
+        "Content-Length": "86457"
+      },
+      "uncompressed_sha256": "ddc6da7af3e11f9c4e30db34cb97a0ab3c1c169d522afe37a861c411812cae7e",
+      "source_rows": 8760,
+      "final_head_verified_utc": "2026-10-29T19:28:33.364091+00:00"
+    },
+    {
+      "city": "seattle",
+      "station": "727930-24233",
+      "year": 2016,
+      "file": "727930-24233-2016.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2016/727930-24233-2016.gz",
+      "captured_utc": "2026-10-29T19:28:07.546786+00:00",
+      "bytes": 87640,
+      "sha256": "f3fd4ecb3e04776de40d18054b93a35e6f4c83fee247781e339ccff929116119",
+      "object_headers": {
+        "ETag": "\"ff84ffd336fc7ea67eca1c9614510218\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:32:22 GMT",
+        "Content-Length": "87640"
+      },
+      "uncompressed_sha256": "b712c29c6d03785d6aaa73e674e958a037c1d0ad4c7c3d9a28eb459abdb35c60",
+      "source_rows": 8782,
+      "final_head_verified_utc": "2026-10-29T19:28:33.525408+00:00"
+    },
+    {
+      "city": "seattle",
+      "station": "727930-24233",
+      "year": 2017,
+      "file": "727930-24233-2017.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2017/727930-24233-2017.gz",
+      "captured_utc": "2026-10-29T19:28:07.867981+00:00",
+      "bytes": 87717,
+      "sha256": "d591685a32ece133efd3547c275743437a1f92c5b85a223ee759150371291148",
+      "object_headers": {
+        "ETag": "\"e093c86b83cb1b6ca83eba407f2560ec\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:28:00 GMT",
+        "Content-Length": "87717"
+      },
+      "uncompressed_sha256": "1ca551610f0887f68220dac9e27dc3ce32a472257409cc6cbedd59d9caace630",
+      "source_rows": 8759,
+      "final_head_verified_utc": "2026-10-29T19:28:33.683182+00:00"
+    },
+    {
+      "city": "seattle",
+      "station": "727930-24233",
+      "year": 2018,
+      "file": "727930-24233-2018.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2018/727930-24233-2018.gz",
+      "captured_utc": "2026-10-29T19:28:08.188628+00:00",
+      "bytes": 86050,
+      "sha256": "5114292e87d9d3bbc35294be6c714d980cdfdf615cd5baea60e9129b4e21ccdb",
+      "object_headers": {
+        "ETag": "\"2999e3e266dd4daf703835c577a09057\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:27:37 GMT",
+        "Content-Length": "86050"
+      },
+      "uncompressed_sha256": "e6cf1632334cf84143fad6cc1880ea992bd189adbfad22ba8127fc3981eaeb67",
+      "source_rows": 8757,
+      "final_head_verified_utc": "2026-10-29T19:28:33.846097+00:00"
+    },
+    {
+      "city": "seattle",
+      "station": "727930-24233",
+      "year": 2019,
+      "file": "727930-24233-2019.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2019/727930-24233-2019.gz",
+      "captured_utc": "2026-10-29T19:28:08.582398+00:00",
+      "bytes": 86382,
+      "sha256": "0064937310ac909ff5513ac73bc14af276bdef98ef565289f636dc4c75fb0c55",
+      "object_headers": {
+        "ETag": "\"26117af8de3b1c4041022d69d1ce744d\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:26:57 GMT",
+        "Content-Length": "86382"
+      },
+      "uncompressed_sha256": "b430d3df7f79cef366721da51c64df5f3b6b32a77ad529a5530e89e13eb876e3",
+      "source_rows": 8757,
+      "final_head_verified_utc": "2026-10-29T19:28:33.998605+00:00"
+    },
+    {
+      "city": "seattle",
+      "station": "727930-24233",
+      "year": 2020,
+      "file": "727930-24233-2020.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2020/727930-24233-2020.gz",
+      "captured_utc": "2026-10-29T19:28:08.918964+00:00",
+      "bytes": 87479,
+      "sha256": "a747dff0acf6724fb50dc9fc18a6e275753b4475e6e727497abc081e5027d2d9",
+      "object_headers": {
+        "ETag": "\"e22f216e03baf0f8fa0d527114314900\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:32:54 GMT",
+        "Content-Length": "87479"
+      },
+      "uncompressed_sha256": "9dafb134a9e20c508df351572af290c28469f4f72c230beef14c20b4a2aeee96",
+      "source_rows": 8774,
+      "final_head_verified_utc": "2026-10-29T19:28:34.160903+00:00"
+    },
+    {
+      "city": "seattle",
+      "station": "727930-24233",
+      "year": 2021,
+      "file": "727930-24233-2021.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2021/727930-24233-2021.gz",
+      "captured_utc": "2026-10-29T19:28:09.254842+00:00",
+      "bytes": 87731,
+      "sha256": "0cfdc998c3cb0a3378c0cca307f82d4b0a28049ba8ca590c01a13952ec4320ab",
+      "object_headers": {
+        "ETag": "\"b8f42ed3a58471f0904814c1402ea7f9\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:34:43 GMT",
+        "Content-Length": "87731"
+      },
+      "uncompressed_sha256": "a59ee94c7c3864ebcca84c28aa5d6ca510bd1845f52e4d6135fa157261b95715",
+      "source_rows": 8760,
+      "final_head_verified_utc": "2026-10-29T19:28:34.309882+00:00"
+    },
+    {
+      "city": "seattle",
+      "station": "727930-24233",
+      "year": 2022,
+      "file": "727930-24233-2022.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2022/727930-24233-2022.gz",
+      "captured_utc": "2026-10-29T19:28:09.580325+00:00",
+      "bytes": 86889,
+      "sha256": "05f581a2bc0abddbe4ecee1541133eb515296eb97fa4c6bd337fa2e87d6193f1",
+      "object_headers": {
+        "ETag": "\"fbaad95eee2f2f754cf048bc9227f6c2\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:35:40 GMT",
+        "Content-Length": "86889"
+      },
+      "uncompressed_sha256": "ddc917791a8c6f4edc06033f7ee1279c0058fdfcf6fa8575e95108edc77af357",
+      "source_rows": 8760,
+      "final_head_verified_utc": "2026-10-29T19:28:34.459658+00:00"
+    },
+    {
+      "city": "seattle",
+      "station": "727930-24233",
+      "year": 2023,
+      "file": "727930-24233-2023.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2023/727930-24233-2023.gz",
+      "captured_utc": "2026-10-29T19:28:09.889327+00:00",
+      "bytes": 87634,
+      "sha256": "622b65612daf0af047fdf97d0df48a3ca4dbe45aa4c7f5ee72221e56e3dc56cc",
+      "object_headers": {
+        "ETag": "\"3d90fb8914e57be2c813a88f0d1504e6\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:36:11 GMT",
+        "Content-Length": "87634"
+      },
+      "uncompressed_sha256": "7f0507829cd590d5c0cf1ebc5961525c5372375b9a0403164c503d203cd4e12f",
+      "source_rows": 8760,
+      "final_head_verified_utc": "2026-10-29T19:28:34.614879+00:00"
+    },
+    {
+      "city": "seattle",
+      "station": "727930-24233",
+      "year": 2024,
+      "file": "727930-24233-2024.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2024/727930-24233-2024.gz",
+      "captured_utc": "2026-10-29T19:28:10.210253+00:00",
+      "bytes": 88316,
+      "sha256": "df6758c4c49d8542c75e4a4eb2e29ecd8b2927669207adbf24420d8cc0746cef",
+      "object_headers": {
+        "ETag": "\"153bc036c0932cb34cd4ced3f941ff02\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:36:30 GMT",
+        "Content-Length": "88316"
+      },
+      "uncompressed_sha256": "8cea9b3548bee4e5694363fda218c8c5db186d0cc573e8df9373f64d283a1f50",
+      "source_rows": 8747,
+      "final_head_verified_utc": "2026-10-29T19:28:34.770169+00:00"
+    },
+    {
+      "city": "new_york",
+      "station": "744860-94789",
+      "year": 2010,
+      "file": "744860-94789-2010.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2010/744860-94789-2010.gz",
+      "captured_utc": "2026-10-29T19:28:10.558347+00:00",
+      "bytes": 90659,
+      "sha256": "27af6912f3f22b24adb11aacebdbd6b7eae3a9bb18f8c7fd1ec2ea1b274ac15b",
+      "object_headers": {
+        "ETag": "\"0a5f5fa735a550da123dffdb7ee96b9b\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:31:31 GMT",
+        "Content-Length": "90659"
+      },
+      "uncompressed_sha256": "11e082591e8461e9a4baef0c62f9dabad8649f8d50203889d7e2e6860517590c",
+      "source_rows": 8759,
+      "final_head_verified_utc": "2026-10-29T19:28:34.923664+00:00"
+    },
+    {
+      "city": "new_york",
+      "station": "744860-94789",
+      "year": 2011,
+      "file": "744860-94789-2011.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2011/744860-94789-2011.gz",
+      "captured_utc": "2026-10-29T19:28:10.874187+00:00",
+      "bytes": 91318,
+      "sha256": "6c2b870d11ee792d4c8f1adbec8d660ff2900f5ca07a13dbe29af103c09f5977",
+      "object_headers": {
+        "ETag": "\"f9a0456f974fa52ee52e76ea18ef8a0f\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:33:50 GMT",
+        "Content-Length": "91318"
+      },
+      "uncompressed_sha256": "01de8b06356edaa6871f763fc3173055b2d6c142faa2999236b91a6b48043087",
+      "source_rows": 8759,
+      "final_head_verified_utc": "2026-10-29T19:28:35.082984+00:00"
+    },
+    {
+      "city": "new_york",
+      "station": "744860-94789",
+      "year": 2012,
+      "file": "744860-94789-2012.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2012/744860-94789-2012.gz",
+      "captured_utc": "2026-10-29T19:28:11.206442+00:00",
+      "bytes": 91394,
+      "sha256": "0b86dc9f22a11c37fc1e60dd984536d33bd7fb989adec58781597fe6a3cfaf94",
+      "object_headers": {
+        "ETag": "\"e1e022bed384a649b6c54e2a16e31d28\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:33:33 GMT",
+        "Content-Length": "91394"
+      },
+      "uncompressed_sha256": "36b31104ec252e28f625a9b288d3f0a44228720bb80a65df5a91decd8e76b315",
+      "source_rows": 8784,
+      "final_head_verified_utc": "2026-10-29T19:28:35.236629+00:00"
+    },
+    {
+      "city": "new_york",
+      "station": "744860-94789",
+      "year": 2013,
+      "file": "744860-94789-2013.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2013/744860-94789-2013.gz",
+      "captured_utc": "2026-10-29T19:28:11.546085+00:00",
+      "bytes": 91258,
+      "sha256": "87e04fcbe70930afa55dcfd5c9c214437f89c7a09a0941f437030c4b8c2c02d0",
+      "object_headers": {
+        "ETag": "\"962f44a18b38385ba346d29e17da3495\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:31:44 GMT",
+        "Content-Length": "91258"
+      },
+      "uncompressed_sha256": "b72ada6b9efcb9f949650da80b1a63baf82262ad5f45b2f4718c4b69849af306",
+      "source_rows": 8760,
+      "final_head_verified_utc": "2026-10-29T19:28:35.396424+00:00"
+    },
+    {
+      "city": "new_york",
+      "station": "744860-94789",
+      "year": 2014,
+      "file": "744860-94789-2014.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2014/744860-94789-2014.gz",
+      "captured_utc": "2026-10-29T19:28:11.898087+00:00",
+      "bytes": 92120,
+      "sha256": "d18bafa84d44829e0f9908ec12b3dc8a8248553a8ab81d431d5f0d57815db277",
+      "object_headers": {
+        "ETag": "\"2aade68a74b5e33ec3148ec487df512a\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:32:04 GMT",
+        "Content-Length": "92120"
+      },
+      "uncompressed_sha256": "b6092e56e2de83a59cfe85bc974a42794609a86d85946d5aaf46e6802a177bfa",
+      "source_rows": 8760,
+      "final_head_verified_utc": "2026-10-29T19:28:35.542073+00:00"
+    },
+    {
+      "city": "new_york",
+      "station": "744860-94789",
+      "year": 2015,
+      "file": "744860-94789-2015.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2015/744860-94789-2015.gz",
+      "captured_utc": "2026-10-29T19:28:12.210460+00:00",
+      "bytes": 91083,
+      "sha256": "67d4a85fdebecfc9de624f6b94d936abf6e6ba84d62cbff6da664ab544e1a99d",
+      "object_headers": {
+        "ETag": "\"135bfb9a4d15b4b3168392eb1c6e2e8b\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:32:14 GMT",
+        "Content-Length": "91083"
+      },
+      "uncompressed_sha256": "77f0871019986a14f380e488df6d5dcc7c2804122a40de5768a277d36f784728",
+      "source_rows": 8760,
+      "final_head_verified_utc": "2026-10-29T19:28:35.698783+00:00"
+    },
+    {
+      "city": "new_york",
+      "station": "744860-94789",
+      "year": 2016,
+      "file": "744860-94789-2016.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2016/744860-94789-2016.gz",
+      "captured_utc": "2026-10-29T19:28:12.543853+00:00",
+      "bytes": 91829,
+      "sha256": "50ed1645becc01b1bb741b2ecba2a1197823cacdfd005f49d56938321d74ce91",
+      "object_headers": {
+        "ETag": "\"67ab00a988c6b9b59fd68901595f74c1\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:32:31 GMT",
+        "Content-Length": "91829"
+      },
+      "uncompressed_sha256": "5a54d552b8fa4dc8ec5347b512b1236f0b98ef82b4459137e175bd0165038f76",
+      "source_rows": 8782,
+      "final_head_verified_utc": "2026-10-29T19:28:35.853568+00:00"
+    },
+    {
+      "city": "new_york",
+      "station": "744860-94789",
+      "year": 2017,
+      "file": "744860-94789-2017.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2017/744860-94789-2017.gz",
+      "captured_utc": "2026-10-29T19:28:12.882868+00:00",
+      "bytes": 91680,
+      "sha256": "9d2526f59f73b02502795ed1969a8cb6f128706bb227e1e129c301d647391438",
+      "object_headers": {
+        "ETag": "\"b118e16d2ef943699c1ac749a97b1929\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:27:58 GMT",
+        "Content-Length": "91680"
+      },
+      "uncompressed_sha256": "a48cbf03e0c86616f6f0271d8c7960bce0dcc67dd00415bbb45dead098edff59",
+      "source_rows": 8759,
+      "final_head_verified_utc": "2026-10-29T19:28:36.024919+00:00"
+    },
+    {
+      "city": "new_york",
+      "station": "744860-94789",
+      "year": 2018,
+      "file": "744860-94789-2018.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2018/744860-94789-2018.gz",
+      "captured_utc": "2026-10-29T19:28:13.249353+00:00",
+      "bytes": 91474,
+      "sha256": "077681262758174f82956a5cb30cea07b2d8fd2ef475244a4d284b12ab79709b",
+      "object_headers": {
+        "ETag": "\"a080141fc5ccff9567057f94ef5359fa\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:27:35 GMT",
+        "Content-Length": "91474"
+      },
+      "uncompressed_sha256": "bb7feafa0c5dda15feb209729f5da6b0c97927a304c88cb8b70a4f74489fc862",
+      "source_rows": 8760,
+      "final_head_verified_utc": "2026-10-29T19:28:36.172187+00:00"
+    },
+    {
+      "city": "new_york",
+      "station": "744860-94789",
+      "year": 2019,
+      "file": "744860-94789-2019.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2019/744860-94789-2019.gz",
+      "captured_utc": "2026-10-29T19:28:13.657819+00:00",
+      "bytes": 92367,
+      "sha256": "3f5d93cb9fd70090fef01327f876b1183e480e19adc712b14164a8f6e60a81f4",
+      "object_headers": {
+        "ETag": "\"b315d12fea373ad344bff5c54306b1b7\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:26:53 GMT",
+        "Content-Length": "92367"
+      },
+      "uncompressed_sha256": "51ca3377e7650dac9003ffe81748199570fd22d014b6182c3342e8adcabe3f8e",
+      "source_rows": 8760,
+      "final_head_verified_utc": "2026-10-29T19:28:36.327621+00:00"
+    },
+    {
+      "city": "new_york",
+      "station": "744860-94789",
+      "year": 2020,
+      "file": "744860-94789-2020.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2020/744860-94789-2020.gz",
+      "captured_utc": "2026-10-29T19:28:13.985074+00:00",
+      "bytes": 92012,
+      "sha256": "afde3371dc40c04a2c4396b8361fcbe49a4b5b3d15254c5679873a01dcb272c3",
+      "object_headers": {
+        "ETag": "\"7a5e4406afdf12d445e621df2eba0917\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:32:53 GMT",
+        "Content-Length": "92012"
+      },
+      "uncompressed_sha256": "6f69160ac1f0b76714c2a3b4ebc8c73e64a052935c7194c95a9200faa7361cbb",
+      "source_rows": 8784,
+      "final_head_verified_utc": "2026-10-29T19:28:36.486463+00:00"
+    },
+    {
+      "city": "new_york",
+      "station": "744860-94789",
+      "year": 2021,
+      "file": "744860-94789-2021.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2021/744860-94789-2021.gz",
+      "captured_utc": "2026-10-29T19:28:14.340750+00:00",
+      "bytes": 90795,
+      "sha256": "9363b5292224a3ecf6633a3a5fcfd918d610a0909d5c1ea5b4ea4edb82a9adbf",
+      "object_headers": {
+        "ETag": "\"96c7767a85de655469d00fdbe5c991ae\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:34:44 GMT",
+        "Content-Length": "90795"
+      },
+      "uncompressed_sha256": "8840cc686b3314a275ca6e5375af053ab29411ce6d7d59135653b14e96b8edc7",
+      "source_rows": 8760,
+      "final_head_verified_utc": "2026-10-29T19:28:36.642476+00:00"
+    },
+    {
+      "city": "new_york",
+      "station": "744860-94789",
+      "year": 2022,
+      "file": "744860-94789-2022.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2022/744860-94789-2022.gz",
+      "captured_utc": "2026-10-29T19:28:14.665134+00:00",
+      "bytes": 91847,
+      "sha256": "cc60ecaad7a9fcdbc3fae9f2cd7d6c2d9e3c1b50487faa9d2c16aba0545147ab",
+      "object_headers": {
+        "ETag": "\"427edcedf8d246271507c96c24cdb3c0\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:35:39 GMT",
+        "Content-Length": "91847"
+      },
+      "uncompressed_sha256": "f890610b669e469e0c107c43c481bc3772a817bc8260a854aaa87f51c870b35b",
+      "source_rows": 8760,
+      "final_head_verified_utc": "2026-10-29T19:28:36.818418+00:00"
+    },
+    {
+      "city": "new_york",
+      "station": "744860-94789",
+      "year": 2023,
+      "file": "744860-94789-2023.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2023/744860-94789-2023.gz",
+      "captured_utc": "2026-10-29T19:28:14.995687+00:00",
+      "bytes": 90447,
+      "sha256": "5e79b572ac1b2372a66b82da3301f933f31f9669aabb126b98ee30d5118cd2a0",
+      "object_headers": {
+        "ETag": "\"1c74cfc3469a2562db3cc9f7a7ae94bf\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:36:19 GMT",
+        "Content-Length": "90447"
+      },
+      "uncompressed_sha256": "40dd3848ac1144c47ae78af9d3c6f353907e0606c28b8db4349ce70bccee0f55",
+      "source_rows": 8760,
+      "final_head_verified_utc": "2026-10-29T19:28:36.973327+00:00"
+    },
+    {
+      "city": "new_york",
+      "station": "744860-94789",
+      "year": 2024,
+      "file": "744860-94789-2024.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2024/744860-94789-2024.gz",
+      "captured_utc": "2026-10-29T19:28:15.318732+00:00",
+      "bytes": 90376,
+      "sha256": "00f1dbb7fd30b8af4697e48b4352de58f48869d8311609a2071877cc35993279",
+      "object_headers": {
+        "ETag": "\"bd69967d1ae9b20edc49b5f48c6234b3\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:36:30 GMT",
+        "Content-Length": "90376"
+      },
+      "uncompressed_sha256": "86b2542e97e794b4aababf9720799af519885986839b450a7ef96088185f9b75",
+      "source_rows": 8764,
+      "final_head_verified_utc": "2026-10-29T19:28:37.129605+00:00"
+    },
+    {
+      "city": "minneapolis",
+      "station": "726580-14922",
+      "year": 2010,
+      "file": "726580-14922-2010.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2010/726580-14922-2010.gz",
+      "captured_utc": "2026-10-29T19:28:15.649302+00:00",
+      "bytes": 89229,
+      "sha256": "108d45abf72e363db71cb53b1e136b97a5c5dba42042f6bbe353ad7ea739e89b",
+      "object_headers": {
+        "ETag": "\"86b7a22a0a4018531c5a1f51920b76ae\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:31:37 GMT",
+        "Content-Length": "89229"
+      },
+      "uncompressed_sha256": "9a5b1756b232449b1d9abf25465024ea0ee50e11a1bb440b7811084fe6cbaefd",
+      "source_rows": 8760,
+      "final_head_verified_utc": "2026-10-29T19:28:37.296046+00:00"
+    },
+    {
+      "city": "minneapolis",
+      "station": "726580-14922",
+      "year": 2011,
+      "file": "726580-14922-2011.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2011/726580-14922-2011.gz",
+      "captured_utc": "2026-10-29T19:28:16.109437+00:00",
+      "bytes": 89987,
+      "sha256": "a375601ca152757dbe086a3f09ea34c581fa47a7a81dfa3df7e01a1d20a8688f",
+      "object_headers": {
+        "ETag": "\"5a769240d7a80bf9c43edf7112eb4dc3\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:33:50 GMT",
+        "Content-Length": "89987"
+      },
+      "uncompressed_sha256": "cc5b843c1a559a5fd234a20b922f3a594d147e61cb02dea66afca625826023dd",
+      "source_rows": 8760,
+      "final_head_verified_utc": "2026-10-29T19:28:37.456330+00:00"
+    },
+    {
+      "city": "minneapolis",
+      "station": "726580-14922",
+      "year": 2012,
+      "file": "726580-14922-2012.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2012/726580-14922-2012.gz",
+      "captured_utc": "2026-10-29T19:28:16.435641+00:00",
+      "bytes": 90570,
+      "sha256": "c75a0512e6bf18f01e64ea351ccd9903275632e5aa7af0687073986b8bc3bcf9",
+      "object_headers": {
+        "ETag": "\"16d716791311a02053143b39060a59a9\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:33:24 GMT",
+        "Content-Length": "90570"
+      },
+      "uncompressed_sha256": "0518ca39be5719004fa5befb79749b9a11968e5a1f95099fb9549a103f6bfc14",
+      "source_rows": 8783,
+      "final_head_verified_utc": "2026-10-29T19:28:37.628148+00:00"
+    },
+    {
+      "city": "minneapolis",
+      "station": "726580-14922",
+      "year": 2013,
+      "file": "726580-14922-2013.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2013/726580-14922-2013.gz",
+      "captured_utc": "2026-10-29T19:28:16.771292+00:00",
+      "bytes": 89674,
+      "sha256": "db02919d78761c3290307aadc0a05f06c183e5ac989bb0b59fde49b191e4580e",
+      "object_headers": {
+        "ETag": "\"5f6a8c11f634540045a0a32db911d77b\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:31:44 GMT",
+        "Content-Length": "89674"
+      },
+      "uncompressed_sha256": "57326aa41e23cb05ea0bc52a25e0b462dddd6e24d87da2c8abbfff84bf2fcf17",
+      "source_rows": 8760,
+      "final_head_verified_utc": "2026-10-29T19:28:37.782522+00:00"
+    },
+    {
+      "city": "minneapolis",
+      "station": "726580-14922",
+      "year": 2014,
+      "file": "726580-14922-2014.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2014/726580-14922-2014.gz",
+      "captured_utc": "2026-10-29T19:28:17.148897+00:00",
+      "bytes": 90398,
+      "sha256": "2b036c2a09869592555f2b2bc8ae624089af32d84f769e4bf1016c7e8a459be7",
+      "object_headers": {
+        "ETag": "\"fc05ede3e852d72d5f84bee47cfb5f84\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:31:56 GMT",
+        "Content-Length": "90398"
+      },
+      "uncompressed_sha256": "ab1bcc3ff0f623f34954ba9bb32530973401cefdb7017b8aee5d689b2dcd81ce",
+      "source_rows": 8759,
+      "final_head_verified_utc": "2026-10-29T19:28:37.949328+00:00"
+    },
+    {
+      "city": "minneapolis",
+      "station": "726580-14922",
+      "year": 2015,
+      "file": "726580-14922-2015.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2015/726580-14922-2015.gz",
+      "captured_utc": "2026-10-29T19:28:17.474691+00:00",
+      "bytes": 90078,
+      "sha256": "326dac594c9cd41dbc2f64893c1482c200e6d58d0e135083cae360dd0accc52e",
+      "object_headers": {
+        "ETag": "\"337b1861c1d340cda401745a581eef0d\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:32:16 GMT",
+        "Content-Length": "90078"
+      },
+      "uncompressed_sha256": "08a56bf6c047196ff48fb08533810b5a8b75f0f6de64808e3e50e27f0e300ecd",
+      "source_rows": 8760,
+      "final_head_verified_utc": "2026-10-29T19:28:38.100609+00:00"
+    },
+    {
+      "city": "minneapolis",
+      "station": "726580-14922",
+      "year": 2016,
+      "file": "726580-14922-2016.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2016/726580-14922-2016.gz",
+      "captured_utc": "2026-10-29T19:28:17.798221+00:00",
+      "bytes": 89945,
+      "sha256": "3b8f81d2c1147e3170f7b83c603fd68443dfbbf0f823ce09b690024535275251",
+      "object_headers": {
+        "ETag": "\"4f6cf264f96fad35d87fb871a67f950d\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:32:22 GMT",
+        "Content-Length": "89945"
+      },
+      "uncompressed_sha256": "33da5f93183bf4820a5f8cd824414236925ff69f61b306f8ace0e72311881c5f",
+      "source_rows": 8783,
+      "final_head_verified_utc": "2026-10-29T19:28:38.277197+00:00"
+    },
+    {
+      "city": "minneapolis",
+      "station": "726580-14922",
+      "year": 2017,
+      "file": "726580-14922-2017.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2017/726580-14922-2017.gz",
+      "captured_utc": "2026-10-29T19:28:18.111714+00:00",
+      "bytes": 90101,
+      "sha256": "6c6f527ab724fd4cd5fa0bbb55506a45b2c8fba19886e12e7fa5edce4fa61e12",
+      "object_headers": {
+        "ETag": "\"4ed15af7a726b62d06867f13d065d569\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:27:57 GMT",
+        "Content-Length": "90101"
+      },
+      "uncompressed_sha256": "465811bcc80b7eaa93bee597a4426efa4f8f497a9018cfdba54380dff31eb2d4",
+      "source_rows": 8759,
+      "final_head_verified_utc": "2026-10-29T19:28:38.424492+00:00"
+    },
+    {
+      "city": "minneapolis",
+      "station": "726580-14922",
+      "year": 2018,
+      "file": "726580-14922-2018.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2018/726580-14922-2018.gz",
+      "captured_utc": "2026-10-29T19:28:18.455592+00:00",
+      "bytes": 89206,
+      "sha256": "601aee36de9ade8bfff22a2c28bf65141de2cbfb161ca702eee872302d343712",
+      "object_headers": {
+        "ETag": "\"a548573bc38478edb9ec4a1c0e833519\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:27:36 GMT",
+        "Content-Length": "89206"
+      },
+      "uncompressed_sha256": "07800a91abd299a39720a2656ed2d60cf0ab4658f4ee26371a1b03368ddab444",
+      "source_rows": 8760,
+      "final_head_verified_utc": "2026-10-29T19:28:38.580696+00:00"
+    },
+    {
+      "city": "minneapolis",
+      "station": "726580-14922",
+      "year": 2019,
+      "file": "726580-14922-2019.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2019/726580-14922-2019.gz",
+      "captured_utc": "2026-10-29T19:28:18.787112+00:00",
+      "bytes": 90598,
+      "sha256": "632783ece29d356f23af61fd2a22d3fad5d9fc060f00eb15c433521b757442e2",
+      "object_headers": {
+        "ETag": "\"cedabfcb9e6bde874526f100b5fcf930\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:26:57 GMT",
+        "Content-Length": "90598"
+      },
+      "uncompressed_sha256": "f8345db93871aba923d502c91d91c8b3d7dac99d668fb31c4ce998a77e582261",
+      "source_rows": 8754,
+      "final_head_verified_utc": "2026-10-29T19:28:38.735509+00:00"
+    },
+    {
+      "city": "minneapolis",
+      "station": "726580-14922",
+      "year": 2020,
+      "file": "726580-14922-2020.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2020/726580-14922-2020.gz",
+      "captured_utc": "2026-10-29T19:28:19.011971+00:00",
+      "bytes": 70896,
+      "sha256": "1d4c89c8bb6d08548151d9267155eaf33bfe8e7690242897cca12195a778023a",
+      "object_headers": {
+        "ETag": "\"f768c8defb3e58cf6a1a47fdb27cb6ed\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:32:55 GMT",
+        "Content-Length": "70896"
+      },
+      "uncompressed_sha256": "464e3f59913b768c3f958190ab106451e1125787b72e001b4c249701a50c33c7",
+      "source_rows": 8784,
+      "final_head_verified_utc": "2026-10-29T19:28:38.896254+00:00"
+    },
+    {
+      "city": "minneapolis",
+      "station": "726580-14922",
+      "year": 2021,
+      "file": "726580-14922-2021.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2021/726580-14922-2021.gz",
+      "captured_utc": "2026-10-29T19:28:19.301640+00:00",
+      "bytes": 71005,
+      "sha256": "23fce8a4266f783db21ef93ac3c492f022efc1b16b9b4482f6977f963cc07688",
+      "object_headers": {
+        "ETag": "\"926f8dbbb70b10dafec711d1388304d6\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:34:44 GMT",
+        "Content-Length": "71005"
+      },
+      "uncompressed_sha256": "b295b67b534b1759c1de0be7579ab3bae95554363475962c2ed338e579c774ac",
+      "source_rows": 8760,
+      "final_head_verified_utc": "2026-10-29T19:28:39.062091+00:00"
+    },
+    {
+      "city": "minneapolis",
+      "station": "726580-14922",
+      "year": 2022,
+      "file": "726580-14922-2022.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2022/726580-14922-2022.gz",
+      "captured_utc": "2026-10-29T19:28:19.535506+00:00",
+      "bytes": 71478,
+      "sha256": "cf2db32e6d007880fb4701fd2431f5e9958ca03d5f7a25d0b541f218f5609c27",
+      "object_headers": {
+        "ETag": "\"302982e839c89a0d1c9b200ecaf0cdda\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:35:48 GMT",
+        "Content-Length": "71478"
+      },
+      "uncompressed_sha256": "895449dadd51333c4e13dc9fad8ba2ac7a48bcb3c4a5654e5d3fc8da173d1249",
+      "source_rows": 8686,
+      "final_head_verified_utc": "2026-10-29T19:28:39.208568+00:00"
+    },
+    {
+      "city": "minneapolis",
+      "station": "726580-14922",
+      "year": 2023,
+      "file": "726580-14922-2023.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2023/726580-14922-2023.gz",
+      "captured_utc": "2026-10-29T19:28:19.854213+00:00",
+      "bytes": 89674,
+      "sha256": "f0d573671593d2de2e5ee7f4faa8a38f9c935bcbf00e533d986e49b3cc18409e",
+      "object_headers": {
+        "ETag": "\"3f0c9fe6ae48e902095f05f6e05dc8a0\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:36:10 GMT",
+        "Content-Length": "89674"
+      },
+      "uncompressed_sha256": "947d2babfc0eeec0c48fc8ccdf0d2b5154d6ee206c549240dec2b194ade4f42f",
+      "source_rows": 8759,
+      "final_head_verified_utc": "2026-10-29T19:28:39.374372+00:00"
+    },
+    {
+      "city": "minneapolis",
+      "station": "726580-14922",
+      "year": 2024,
+      "file": "726580-14922-2024.gz",
+      "url": "https://noaa-isd-pds.s3.amazonaws.com/isd-lite/data/2024/726580-14922-2024.gz",
+      "captured_utc": "2026-10-29T19:28:20.245890+00:00",
+      "bytes": 89796,
+      "sha256": "82aff9988a5bd18ec2576cdda871eebca48ce13d4bedc62e382d129b3749453f",
+      "object_headers": {
+        "ETag": "\"f0fdbc0cff685b6ed1129307164ec12b\"",
+        "Last-Modified": "Mon, 03 Mar 2025 19:36:28 GMT",
+        "Content-Length": "89796"
+      },
+      "uncompressed_sha256": "5a6ae5bd770b67ec614aa0734930a682f89f361b00a2a0b814ad74c2bdb25230",
+      "source_rows": 8751,
+      "final_head_verified_utc": "2026-10-29T19:28:39.542206+00:00"
+    }
+  ],
+  "station_count": 8,
+  "object_count": 120,
+  "source_rows": 1051655,
+  "public_file": "data/source/temperature_slots.csv.gz",
+  "public_sha256": "05357ced90079a9796bdf825c14a5114c371912c71fc0aa53defdba21e374db1",
+  "boundary": "Selected time/temperature/locator facts only; full originals/documents excluded. Near-hour readings are not continuous exposure duration, product condition or latest weather; Lite omits full quality flags."
+}

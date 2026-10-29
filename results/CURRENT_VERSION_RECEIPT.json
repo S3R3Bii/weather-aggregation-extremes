@@ -1,0 +1,94 @@
+{
+  "timestamp_utc": "2026-10-29T19:45:27.596379+00:00",
+  "status": "LOCAL_SCOPED_ACCEPTANCE_PASS_REMOTE_RELEASE_PENDING",
+  "grade": 4,
+  "review_rounds_completed": 3,
+  "deliverable": "Current study32 selected source facts, complete reported-temperature aggregation/tail/run/resampling results, three figures and eight-page independent manuscript",
+  "version_hashes": {
+    "paper/main.tex": "b6aec32e4a2ade90355315ebbcd274a4e7043fb83852fb67673ccc7d78d962b4",
+    "paper/manuscript.pdf": "3051b3446bc5e2f4b7ce724e93cb38345c0de8c5a52e77e38e4623325696d298",
+    "paper/images/monthly_aggregation_gap.pdf": "f2300566587b7d56b833f7e28ae51f8d1b283bd8424cc1e705793552d3c20dfd",
+    "paper/images/monthly_reported_tail.pdf": "324466ab178eb70d7a8ead91699c6e0fbd18d75b7e839c30ed932b328501f0fd",
+    "paper/images/threshold_year_ranges.pdf": "6a6c6a64a00e60640a7e9a13dc7e43f29192d7ee4d542a75f3a9ebcab495755a",
+    "results/SOURCE_CHECK.json": "cb635ffb3bc0483ee421fee41f0ab9cddb9c8633aab15c46808adedfd225a839",
+    "results/INDEPENDENT_SOURCE_CHECK.json": "6f6f508f5c470bc917d4a6fe8f9c1998a27c0dc594d735ae2f3492bcb29907e1",
+    "results/DEVELOPMENT_INDEPENDENT_CHECK.json": "fc8c549fb7db2f827134a90454dd638a8a51687630ec467eb57768f86b427fe3",
+    "results/EVALUATION_INDEPENDENT_CHECK.json": "ce65cbf15500a1b53a65173f49b19be4bf1a6f4a9a10024417cb6be1d6f7d082",
+    "results/REPRODUCTION.json": "585bf5f53639942f16ad5077ca61ccdb948e41c41e97c757f92a6fbd22d6f86a",
+    "results/FIGURE_CHECK.json": "2e2b36321712c992eecaac6e81b1e751e52c71e8561c2b41be17c04afb2bdee9",
+    "results/PAPER_CHECK.json": "56600f14cd052b0bb54de698d480c2dc904ed8ebf9538477b5bb7991165fc59b"
+  },
+  "criteria": {
+    "source_facts_and_privacy": {
+      "gate": "PASS",
+      "grade": 4,
+      "evidence": "Every selected field/locator and object hash independently reconciled; all stations/years/missing slots retained; full originals/documents private"
+    },
+    "fixed_scientific_scope_and_sequence": {
+      "gate": "PASS",
+      "grade": 4,
+      "evidence": "18canonical dependencies frozen before held summaries; all three untuned illustrative thresholds and protected year partitions retained; inputs not blinded"
+    },
+    "arithmetic_and_replay": {
+      "gate": "PASS",
+      "grade": 4,
+      "evidence": "12fixtures;190540exact/66840reported-float independent checks; all24000bootstrap rows verified;330561exact replay fields/documents"
+    },
+    "visual_values_and_encoding": {
+      "gate": "PASS",
+      "grade": 4,
+      "evidence": "200artist values;96annotation texts and96contrast checks; natural0\u2013100percent range; all3actualfigures viewed; scale failure retained and repaired"
+    },
+    "current_manuscript_presentation": {
+      "gate": "PASS",
+      "grade": 4,
+      "evidence": "97paper checks; all8rendered pages inspected; three affected precision-repair pages freshly inspected and five others pixel-identical; zeroTeXbox/glyphwarnings;5approved exact files and4PDFsafety checks"
+    },
+    "remote_candidate_main_tree_tag": {
+      "gate": "UNKNOWN",
+      "grade": null,
+      "evidence": "Exact candidate/main Linux, merged-tree and annotated-tag proof still pending"
+    }
+  },
+  "checks": {
+    "SOURCE_CHECK": "PASS",
+    "INDEPENDENT_SOURCE_CHECK": "PASS",
+    "DEVELOPMENT_INDEPENDENT_CHECK": "PASS",
+    "EVALUATION_INDEPENDENT_CHECK": "PASS",
+    "REPRODUCTION": "PASS",
+    "FIGURE_CHECK": "PASS",
+    "PAPER_CHECK": "PASS"
+  },
+  "unknowns_outside_validated_scope": [
+    "Individual physical-weather QC: Lite omits full flags and archive carries an unresolved general merge notice",
+    "Exact original observation minutes and continuous physical threshold duration",
+    "City-wide, warehouse, vehicle or product conditions and realized benefit",
+    "Missing-temperature mechanisms and complete-month means",
+    "Exchangeable years, future climate coverage and causal/generalized city rankings"
+  ],
+  "retained_failures_and_repairs": [
+    "Round2 heatmap initially clipped four values above60percent; originalsource/figures/check retained privately; natural0\u2013100range and measured annotation contrast repaired and checked",
+    "New annotation verifier initially referenced the matrix before assignment; ordering repaired with no data or figure changes",
+    "Round3 initial count/bound display used one decimal; originalTeX/PDF/log/rendered pages and finding retained; exact three-decimal display repaired on pages1/4/6; five other pages pixel-identical",
+    "Paper checker initially required a shorter phrase that was not contiguous in the correct product-limit qualification; matched the actual complete qualification without changing the manuscript or scientific gate"
+  ],
+  "material_changes_since_round2": "Reviewed eight-page manuscript, exact count display, scoped publication hashes, bounded PDF checks, executive README and Linux workflow",
+  "budget": {
+    "max_rounds": 3,
+    "max_active_review_minutes": 45,
+    "max_review_tool_calls": 60,
+    "rounds_used": 3,
+    "workload_proxy": "Source readiness began about19:21UTC. Elapsed wall time to this timestamp includes retrieval/coding/execution and bounds active review; review-specific calls remain below60. No agents, judges, paid work or schedules; proxies are not billing or quota."
+  },
+  "usage_observation": {
+    "source": "Codex get_usage_limits",
+    "observed_utc": "2026-10-29T19:46:06Z",
+    "window_minutes": 10080,
+    "used_percent": 90,
+    "remaining_percent": 10,
+    "reset_unix": 1793782197,
+    "shared_account_not_task_usage": true,
+    "ordinary_usage_allowed": true
+  },
+  "stop_reason": "Three bounded local review rounds meet the declared reported-source comparison criteria. Proceed with ordinary exact-version Linux/release proof; no further substantive revision planned."
+}

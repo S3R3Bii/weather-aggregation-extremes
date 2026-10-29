@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "source_rows": 1051655,
+  "source_objects": 120,
+  "selected_source_field_checks": 5258275,
+  "projected_scalar_checks": 8413240,
+  "station_year_checks": 120,
+  "station_metadata_rows_checked": 8,
+  "station_history_sha256": "1994747ab4af1b97e63adb434b4d0d022f2daee76f0c144ea9ab46be2d906604",
+  "public_source_sha256": "05357ced90079a9796bdf825c14a5114c371912c71fc0aa53defdba21e374db1",
+  "public_manifest_sha256": "0f802a3a3f6f674efab2ca4994401ebe58c83d2de2873422f5e22db7285727bc",
+  "methods": "Independent whitespace parse and strptime calendars; every raw selected field/line locator/public cell, compressed/uncompressed hash, missing/absent calendar count and station metadata reconciled",
+  "limits": "Reported source facts checked; absent full Lite quality flags and continuous physical exposure remain unverified"
+}

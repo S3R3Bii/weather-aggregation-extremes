@@ -1,0 +1,12 @@
+{
+  "status": "COMPUTED_PENDING_INDEPENDENT_CHECK",
+  "phase": "development",
+  "monthly_rows": 2016,
+  "annual_rows": 168,
+  "phase_rows": 24,
+  "bootstrap_draw_rows": 12000,
+  "bootstrap_index_rows": 500,
+  "seed": 20261029,
+  "replicates": 500,
+  "scope": "Exact reported-slot aggregation; no continuous duration, product condition, forecast or future-climate claim"
+}
